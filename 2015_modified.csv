@@ -1,0 +1,1107 @@
+﻿category,key,Region,Year,value,Rank,Score,St Error
+Switzerland,Dystopia Residual,Western Europe,2015,2.51738,1,7.587,0.03411
+Switzerland,Family,Western Europe,2015,1.34951,1,7.587,0.03411
+Switzerland,Freedom,Western Europe,2015,0.66557,1,7.587,0.03411
+Switzerland,GDP Capita,Western Europe,2015,1.39651,1,7.587,0.03411
+Switzerland,Generosity,Western Europe,2015,0.29678,1,7.587,0.03411
+Switzerland,Gov Corruption,Western Europe,2015,0.41978,1,7.587,0.03411
+Switzerland,Life Expectancy,Western Europe,2015,0.94143,1,7.587,0.03411
+Iceland,Dystopia Residual,Western Europe,2015,2.70201,2,7.561,0.04884
+Iceland,Family,Western Europe,2015,1.40223,2,7.561,0.04884
+Iceland,Freedom,Western Europe,2015,0.62877,2,7.561,0.04884
+Iceland,GDP Capita,Western Europe,2015,1.30232,2,7.561,0.04884
+Iceland,Generosity,Western Europe,2015,0.4363,2,7.561,0.04884
+Iceland,Gov Corruption,Western Europe,2015,0.14145,2,7.561,0.04884
+Iceland,Life Expectancy,Western Europe,2015,0.94784,2,7.561,0.04884
+Denmark,Dystopia Residual,Western Europe,2015,2.49204,3,7.527,0.03328
+Denmark,Family,Western Europe,2015,1.36058,3,7.527,0.03328
+Denmark,Freedom,Western Europe,2015,0.64938,3,7.527,0.03328
+Denmark,GDP Capita,Western Europe,2015,1.32548,3,7.527,0.03328
+Denmark,Generosity,Western Europe,2015,0.34139,3,7.527,0.03328
+Denmark,Gov Corruption,Western Europe,2015,0.48357,3,7.527,0.03328
+Denmark,Life Expectancy,Western Europe,2015,0.87464,3,7.527,0.03328
+Norway,Dystopia Residual,Western Europe,2015,2.46531,4,7.522,0.0388
+Norway,Family,Western Europe,2015,1.33095,4,7.522,0.0388
+Norway,Freedom,Western Europe,2015,0.66973,4,7.522,0.0388
+Norway,GDP Capita,Western Europe,2015,1.459,4,7.522,0.0388
+Norway,Generosity,Western Europe,2015,0.34699,4,7.522,0.0388
+Norway,Gov Corruption,Western Europe,2015,0.36503,4,7.522,0.0388
+Norway,Life Expectancy,Western Europe,2015,0.88521,4,7.522,0.0388
+Canada,Dystopia Residual,North America,2015,2.45176,5,7.427,0.03553
+Canada,Family,North America,2015,1.32261,5,7.427,0.03553
+Canada,Freedom,North America,2015,0.63297,5,7.427,0.03553
+Canada,GDP Capita,North America,2015,1.32629,5,7.427,0.03553
+Canada,Generosity,North America,2015,0.45811,5,7.427,0.03553
+Canada,Gov Corruption,North America,2015,0.32957,5,7.427,0.03553
+Canada,Life Expectancy,North America,2015,0.90563,5,7.427,0.03553
+Finland,Dystopia Residual,Western Europe,2015,2.61955,6,7.406,0.0314
+Finland,Family,Western Europe,2015,1.31826,6,7.406,0.0314
+Finland,Freedom,Western Europe,2015,0.64169,6,7.406,0.0314
+Finland,GDP Capita,Western Europe,2015,1.29025,6,7.406,0.0314
+Finland,Generosity,Western Europe,2015,0.23351,6,7.406,0.0314
+Finland,Gov Corruption,Western Europe,2015,0.41372,6,7.406,0.0314
+Finland,Life Expectancy,Western Europe,2015,0.88911,6,7.406,0.0314
+Netherlands,Dystopia Residual,Western Europe,2015,2.4657,7,7.378,0.02799
+Netherlands,Family,Western Europe,2015,1.28017,7,7.378,0.02799
+Netherlands,Freedom,Western Europe,2015,0.61576,7,7.378,0.02799
+Netherlands,GDP Capita,Western Europe,2015,1.32944,7,7.378,0.02799
+Netherlands,Generosity,Western Europe,2015,0.4761,7,7.378,0.02799
+Netherlands,Gov Corruption,Western Europe,2015,0.31814,7,7.378,0.02799
+Netherlands,Life Expectancy,Western Europe,2015,0.89284,7,7.378,0.02799
+Sweden,Dystopia Residual,Western Europe,2015,2.37119,8,7.364,0.03157
+Sweden,Family,Western Europe,2015,1.28907,8,7.364,0.03157
+Sweden,Freedom,Western Europe,2015,0.6598,8,7.364,0.03157
+Sweden,GDP Capita,Western Europe,2015,1.33171,8,7.364,0.03157
+Sweden,Generosity,Western Europe,2015,0.36262,8,7.364,0.03157
+Sweden,Gov Corruption,Western Europe,2015,0.43844,8,7.364,0.03157
+Sweden,Life Expectancy,Western Europe,2015,0.91087,8,7.364,0.03157
+New Zealand,Dystopia Residual,Australia and New Zealand,2015,2.26425,9,7.286,0.03371
+New Zealand,Family,Australia and New Zealand,2015,1.31967,9,7.286,0.03371
+New Zealand,Freedom,Australia and New Zealand,2015,0.63938,9,7.286,0.03371
+New Zealand,GDP Capita,Australia and New Zealand,2015,1.25018,9,7.286,0.03371
+New Zealand,Generosity,Australia and New Zealand,2015,0.47501,9,7.286,0.03371
+New Zealand,Gov Corruption,Australia and New Zealand,2015,0.42922,9,7.286,0.03371
+New Zealand,Life Expectancy,Australia and New Zealand,2015,0.90837,9,7.286,0.03371
+Australia,Dystopia Residual,Australia and New Zealand,2015,2.26646,10,7.284,0.04083
+Australia,Family,Australia and New Zealand,2015,1.30923,10,7.284,0.04083
+Australia,Freedom,Australia and New Zealand,2015,0.65124,10,7.284,0.04083
+Australia,GDP Capita,Australia and New Zealand,2015,1.33358,10,7.284,0.04083
+Australia,Generosity,Australia and New Zealand,2015,0.43562,10,7.284,0.04083
+Australia,Gov Corruption,Australia and New Zealand,2015,0.35637,10,7.284,0.04083
+Australia,Life Expectancy,Australia and New Zealand,2015,0.93156,10,7.284,0.04083
+Israel,Dystopia Residual,Middle East and Northern Africa,2015,3.08854,11,7.278,0.0347
+Israel,Family,Middle East and Northern Africa,2015,1.22393,11,7.278,0.0347
+Israel,Freedom,Middle East and Northern Africa,2015,0.41319,11,7.278,0.0347
+Israel,GDP Capita,Middle East and Northern Africa,2015,1.22857,11,7.278,0.0347
+Israel,Generosity,Middle East and Northern Africa,2015,0.33172,11,7.278,0.0347
+Israel,Gov Corruption,Middle East and Northern Africa,2015,0.07785,11,7.278,0.0347
+Israel,Life Expectancy,Middle East and Northern Africa,2015,0.91387,11,7.278,0.0347
+Costa Rica,Dystopia Residual,Latin America and Caribbean,2015,3.17728,12,7.226,0.04454
+Costa Rica,Family,Latin America and Caribbean,2015,1.23788,12,7.226,0.04454
+Costa Rica,Freedom,Latin America and Caribbean,2015,0.63376,12,7.226,0.04454
+Costa Rica,GDP Capita,Latin America and Caribbean,2015,0.95578,12,7.226,0.04454
+Costa Rica,Generosity,Latin America and Caribbean,2015,0.25497,12,7.226,0.04454
+Costa Rica,Gov Corruption,Latin America and Caribbean,2015,0.10583,12,7.226,0.04454
+Costa Rica,Life Expectancy,Latin America and Caribbean,2015,0.86027,12,7.226,0.04454
+Austria,Dystopia Residual,Western Europe,2015,2.5332,13,7.2,0.03751
+Austria,Family,Western Europe,2015,1.29704,13,7.2,0.03751
+Austria,Freedom,Western Europe,2015,0.62433,13,7.2,0.03751
+Austria,GDP Capita,Western Europe,2015,1.33723,13,7.2,0.03751
+Austria,Generosity,Western Europe,2015,0.33088,13,7.2,0.03751
+Austria,Gov Corruption,Western Europe,2015,0.18676,13,7.2,0.03751
+Austria,Life Expectancy,Western Europe,2015,0.89042,13,7.2,0.03751
+Mexico,Dystopia Residual,Latin America and Caribbean,2015,3.60214,14,7.187,0.04176
+Mexico,Family,Latin America and Caribbean,2015,0.91451,14,7.187,0.04176
+Mexico,Freedom,Latin America and Caribbean,2015,0.48181,14,7.187,0.04176
+Mexico,GDP Capita,Latin America and Caribbean,2015,1.02054,14,7.187,0.04176
+Mexico,Generosity,Latin America and Caribbean,2015,0.14074,14,7.187,0.04176
+Mexico,Gov Corruption,Latin America and Caribbean,2015,0.21312,14,7.187,0.04176
+Mexico,Life Expectancy,Latin America and Caribbean,2015,0.81444,14,7.187,0.04176
+United States,Dystopia Residual,North America,2015,2.51011,15,7.119,0.03839
+United States,Family,North America,2015,1.24711,15,7.119,0.03839
+United States,Freedom,North America,2015,0.54604,15,7.119,0.03839
+United States,GDP Capita,North America,2015,1.39451,15,7.119,0.03839
+United States,Generosity,North America,2015,0.40105,15,7.119,0.03839
+United States,Gov Corruption,North America,2015,0.1589,15,7.119,0.03839
+United States,Life Expectancy,North America,2015,0.86179,15,7.119,0.03839
+Brazil,Dystopia Residual,Latin America and Caribbean,2015,3.26001,16,6.983,0.04076
+Brazil,Family,Latin America and Caribbean,2015,1.23287,16,6.983,0.04076
+Brazil,Freedom,Latin America and Caribbean,2015,0.49049,16,6.983,0.04076
+Brazil,GDP Capita,Latin America and Caribbean,2015,0.98124,16,6.983,0.04076
+Brazil,Generosity,Latin America and Caribbean,2015,0.14574,16,6.983,0.04076
+Brazil,Gov Corruption,Latin America and Caribbean,2015,0.17521,16,6.983,0.04076
+Brazil,Life Expectancy,Latin America and Caribbean,2015,0.69702,16,6.983,0.04076
+Luxembourg,Dystopia Residual,Western Europe,2015,1.96961,17,6.946,0.03499
+Luxembourg,Family,Western Europe,2015,1.21963,17,6.946,0.03499
+Luxembourg,Freedom,Western Europe,2015,0.61583,17,6.946,0.03499
+Luxembourg,GDP Capita,Western Europe,2015,1.56391,17,6.946,0.03499
+Luxembourg,Generosity,Western Europe,2015,0.28034,17,6.946,0.03499
+Luxembourg,Gov Corruption,Western Europe,2015,0.37798,17,6.946,0.03499
+Luxembourg,Life Expectancy,Western Europe,2015,0.91894,17,6.946,0.03499
+Ireland,Dystopia Residual,Western Europe,2015,1.9757,18,6.94,0.03676
+Ireland,Family,Western Europe,2015,1.36948,18,6.94,0.03676
+Ireland,Freedom,Western Europe,2015,0.61777,18,6.94,0.03676
+Ireland,GDP Capita,Western Europe,2015,1.33596,18,6.94,0.03676
+Ireland,Generosity,Western Europe,2015,0.45901,18,6.94,0.03676
+Ireland,Gov Corruption,Western Europe,2015,0.28703,18,6.94,0.03676
+Ireland,Life Expectancy,Western Europe,2015,0.89533,18,6.94,0.03676
+Belgium,Dystopia Residual,Western Europe,2015,2.41484,19,6.937,0.03595
+Belgium,Family,Western Europe,2015,1.28566,19,6.937,0.03595
+Belgium,Freedom,Western Europe,2015,0.5845,19,6.937,0.03595
+Belgium,GDP Capita,Western Europe,2015,1.30782,19,6.937,0.03595
+Belgium,Generosity,Western Europe,2015,0.2225,19,6.937,0.03595
+Belgium,Gov Corruption,Western Europe,2015,0.2254,19,6.937,0.03595
+Belgium,Life Expectancy,Western Europe,2015,0.89667,19,6.937,0.03595
+United Arab Emirates,Dystopia Residual,Middle East and Northern Africa,2015,2.24743,20,6.901,0.03729
+United Arab Emirates,Family,Middle East and Northern Africa,2015,1.12575,20,6.901,0.03729
+United Arab Emirates,Freedom,Middle East and Northern Africa,2015,0.64157,20,6.901,0.03729
+United Arab Emirates,GDP Capita,Middle East and Northern Africa,2015,1.42727,20,6.901,0.03729
+United Arab Emirates,Generosity,Middle East and Northern Africa,2015,0.26428,20,6.901,0.03729
+United Arab Emirates,Gov Corruption,Middle East and Northern Africa,2015,0.38583,20,6.901,0.03729
+United Arab Emirates,Life Expectancy,Middle East and Northern Africa,2015,0.80925,20,6.901,0.03729
+United Kingdom,Dystopia Residual,Western Europe,2015,1.96994,21,6.867,0.01866
+United Kingdom,Family,Western Europe,2015,1.28548,21,6.867,0.01866
+United Kingdom,Freedom,Western Europe,2015,0.59625,21,6.867,0.01866
+United Kingdom,GDP Capita,Western Europe,2015,1.26637,21,6.867,0.01866
+United Kingdom,Generosity,Western Europe,2015,0.51912,21,6.867,0.01866
+United Kingdom,Gov Corruption,Western Europe,2015,0.32067,21,6.867,0.01866
+United Kingdom,Life Expectancy,Western Europe,2015,0.90943,21,6.867,0.01866
+Oman,Dystopia Residual,Middle East and Northern Africa,2015,2.47489,22,6.853,0.05335
+Oman,Family,Middle East and Northern Africa,2015,1.08182,22,6.853,0.05335
+Oman,Freedom,Middle East and Northern Africa,2015,0.63274,22,6.853,0.05335
+Oman,GDP Capita,Middle East and Northern Africa,2015,1.36011,22,6.853,0.05335
+Oman,Generosity,Middle East and Northern Africa,2015,0.21542,22,6.853,0.05335
+Oman,Gov Corruption,Middle East and Northern Africa,2015,0.32524,22,6.853,0.05335
+Oman,Life Expectancy,Middle East and Northern Africa,2015,0.76276,22,6.853,0.05335
+Venezuela,Dystopia Residual,Latin America and Caribbean,2015,3.19131,23,6.81,0.06476
+Venezuela,Family,Latin America and Caribbean,2015,1.25596,23,6.81,0.06476
+Venezuela,Freedom,Latin America and Caribbean,2015,0.42908,23,6.81,0.06476
+Venezuela,GDP Capita,Latin America and Caribbean,2015,1.04424,23,6.81,0.06476
+Venezuela,Generosity,Latin America and Caribbean,2015,0.05841,23,6.81,0.06476
+Venezuela,Gov Corruption,Latin America and Caribbean,2015,0.11069,23,6.81,0.06476
+Venezuela,Life Expectancy,Latin America and Caribbean,2015,0.72052,23,6.81,0.06476
+Singapore,Dystopia Residual,Southeastern Asia,2015,1.88501,24,6.798,0.0378
+Singapore,Family,Southeastern Asia,2015,1.02,24,6.798,0.0378
+Singapore,Freedom,Southeastern Asia,2015,0.54252,24,6.798,0.0378
+Singapore,GDP Capita,Southeastern Asia,2015,1.52186,24,6.798,0.0378
+Singapore,Generosity,Southeastern Asia,2015,0.31105,24,6.798,0.0378
+Singapore,Gov Corruption,Southeastern Asia,2015,0.4921,24,6.798,0.0378
+Singapore,Life Expectancy,Southeastern Asia,2015,1.02525,24,6.798,0.0378
+Panama,Dystopia Residual,Latin America and Caribbean,2015,2.84848,25,6.786,0.0491
+Panama,Family,Latin America and Caribbean,2015,1.1985,25,6.786,0.0491
+Panama,Freedom,Latin America and Caribbean,2015,0.5421,25,6.786,0.0491
+Panama,GDP Capita,Latin America and Caribbean,2015,1.06353,25,6.786,0.0491
+Panama,Generosity,Latin America and Caribbean,2015,0.24434,25,6.786,0.0491
+Panama,Gov Corruption,Latin America and Caribbean,2015,0.0927,25,6.786,0.0491
+Panama,Life Expectancy,Latin America and Caribbean,2015,0.79661,25,6.786,0.0491
+Germany,Dystopia Residual,Western Europe,2015,2.11569,26,6.75,0.01848
+Germany,Family,Western Europe,2015,1.29937,26,6.75,0.01848
+Germany,Freedom,Western Europe,2015,0.61477,26,6.75,0.01848
+Germany,GDP Capita,Western Europe,2015,1.32792,26,6.75,0.01848
+Germany,Generosity,Western Europe,2015,0.28214,26,6.75,0.01848
+Germany,Gov Corruption,Western Europe,2015,0.21843,26,6.75,0.01848
+Germany,Life Expectancy,Western Europe,2015,0.89186,26,6.75,0.01848
+Chile,Dystopia Residual,Latin America and Caribbean,2015,2.67585,27,6.67,0.058
+Chile,Family,Latin America and Caribbean,2015,1.12447,27,6.67,0.058
+Chile,Freedom,Latin America and Caribbean,2015,0.44132,27,6.67,0.058
+Chile,GDP Capita,Latin America and Caribbean,2015,1.10715,27,6.67,0.058
+Chile,Generosity,Latin America and Caribbean,2015,0.33363,27,6.67,0.058
+Chile,Gov Corruption,Latin America and Caribbean,2015,0.12869,27,6.67,0.058
+Chile,Life Expectancy,Latin America and Caribbean,2015,0.85857,27,6.67,0.058
+Qatar,Dystopia Residual,Middle East and Northern Africa,2015,1.55674,28,6.611,0.06257
+Qatar,Family,Middle East and Northern Africa,2015,1.0786,28,6.611,0.06257
+Qatar,Freedom,Middle East and Northern Africa,2015,0.6404,28,6.611,0.06257
+Qatar,GDP Capita,Middle East and Northern Africa,2015,1.69042,28,6.611,0.06257
+Qatar,Generosity,Middle East and Northern Africa,2015,0.32573,28,6.611,0.06257
+Qatar,Gov Corruption,Middle East and Northern Africa,2015,0.52208,28,6.611,0.06257
+Qatar,Life Expectancy,Middle East and Northern Africa,2015,0.79733,28,6.611,0.06257
+France,Dystopia Residual,Western Europe,2015,2.21126,29,6.575,0.03512
+France,Family,Western Europe,2015,1.26038,29,6.575,0.03512
+France,Freedom,Western Europe,2015,0.55011,29,6.575,0.03512
+France,GDP Capita,Western Europe,2015,1.27778,29,6.575,0.03512
+France,Generosity,Western Europe,2015,0.12332,29,6.575,0.03512
+France,Gov Corruption,Western Europe,2015,0.20646,29,6.575,0.03512
+France,Life Expectancy,Western Europe,2015,0.94579,29,6.575,0.03512
+Argentina,Dystopia Residual,Latin America and Caribbean,2015,2.836,30,6.574,0.04612
+Argentina,Family,Latin America and Caribbean,2015,1.24823,30,6.574,0.04612
+Argentina,Freedom,Latin America and Caribbean,2015,0.44974,30,6.574,0.04612
+Argentina,GDP Capita,Latin America and Caribbean,2015,1.05351,30,6.574,0.04612
+Argentina,Generosity,Latin America and Caribbean,2015,0.11451,30,6.574,0.04612
+Argentina,Gov Corruption,Latin America and Caribbean,2015,0.08484,30,6.574,0.04612
+Argentina,Life Expectancy,Latin America and Caribbean,2015,0.78723,30,6.574,0.04612
+Czech Republic,Dystopia Residual,Central and Eastern Europe,2015,2.67782,31,6.505,0.04168
+Czech Republic,Family,Central and Eastern Europe,2015,1.20643,31,6.505,0.04168
+Czech Republic,Freedom,Central and Eastern Europe,2015,0.46364,31,6.505,0.04168
+Czech Republic,GDP Capita,Central and Eastern Europe,2015,1.17898,31,6.505,0.04168
+Czech Republic,Generosity,Central and Eastern Europe,2015,0.10686,31,6.505,0.04168
+Czech Republic,Gov Corruption,Central and Eastern Europe,2015,0.02652,31,6.505,0.04168
+Czech Republic,Life Expectancy,Central and Eastern Europe,2015,0.84483,31,6.505,0.04168
+Uruguay,Dystopia Residual,Latin America and Caribbean,2015,2.32142,32,6.485,0.04539
+Uruguay,Family,Latin America and Caribbean,2015,1.2089,32,6.485,0.04539
+Uruguay,Freedom,Latin America and Caribbean,2015,0.60362,32,6.485,0.04539
+Uruguay,GDP Capita,Latin America and Caribbean,2015,1.06166,32,6.485,0.04539
+Uruguay,Generosity,Latin America and Caribbean,2015,0.2324,32,6.485,0.04539
+Uruguay,Gov Corruption,Latin America and Caribbean,2015,0.24558,32,6.485,0.04539
+Uruguay,Life Expectancy,Latin America and Caribbean,2015,0.8116,32,6.485,0.04539
+Colombia,Dystopia Residual,Latin America and Caribbean,2015,2.85737,33,6.477,0.05051
+Colombia,Family,Latin America and Caribbean,2015,1.24018,33,6.477,0.05051
+Colombia,Freedom,Latin America and Caribbean,2015,0.53466,33,6.477,0.05051
+Colombia,GDP Capita,Latin America and Caribbean,2015,0.91861,33,6.477,0.05051
+Colombia,Generosity,Latin America and Caribbean,2015,0.18401,33,6.477,0.05051
+Colombia,Gov Corruption,Latin America and Caribbean,2015,0.0512,33,6.477,0.05051
+Colombia,Life Expectancy,Latin America and Caribbean,2015,0.69077,33,6.477,0.05051
+Thailand,Dystopia Residual,Southeastern Asia,2015,2.31945,34,6.455,0.03557
+Thailand,Family,Southeastern Asia,2015,1.26504,34,6.455,0.03557
+Thailand,Freedom,Southeastern Asia,2015,0.55664,34,6.455,0.03557
+Thailand,GDP Capita,Southeastern Asia,2015,0.9669,34,6.455,0.03557
+Thailand,Generosity,Southeastern Asia,2015,0.5763,34,6.455,0.03557
+Thailand,Gov Corruption,Southeastern Asia,2015,0.03187,34,6.455,0.03557
+Thailand,Life Expectancy,Southeastern Asia,2015,0.7385,34,6.455,0.03557
+Saudi Arabia,Dystopia Residual,Middle East and Northern Africa,2015,2.43872,35,6.411,0.04633
+Saudi Arabia,Family,Middle East and Northern Africa,2015,1.08393,35,6.411,0.04633
+Saudi Arabia,Freedom,Middle East and Northern Africa,2015,0.31048,35,6.411,0.04633
+Saudi Arabia,GDP Capita,Middle East and Northern Africa,2015,1.39541,35,6.411,0.04633
+Saudi Arabia,Generosity,Middle East and Northern Africa,2015,0.13706,35,6.411,0.04633
+Saudi Arabia,Gov Corruption,Middle East and Northern Africa,2015,0.32524,35,6.411,0.04633
+Saudi Arabia,Life Expectancy,Middle East and Northern Africa,2015,0.72025,35,6.411,0.04633
+Spain,Dystopia Residual,Western Europe,2015,2.12367,36,6.329,0.03468
+Spain,Family,Western Europe,2015,1.31379,36,6.329,0.03468
+Spain,Freedom,Western Europe,2015,0.45951,36,6.329,0.03468
+Spain,GDP Capita,Western Europe,2015,1.23011,36,6.329,0.03468
+Spain,Generosity,Western Europe,2015,0.18227,36,6.329,0.03468
+Spain,Gov Corruption,Western Europe,2015,0.06398,36,6.329,0.03468
+Spain,Life Expectancy,Western Europe,2015,0.95562,36,6.329,0.03468
+Malta,Dystopia Residual,Western Europe,2015,1.6488,37,6.302,0.04206
+Malta,Family,Western Europe,2015,1.30203,37,6.302,0.04206
+Malta,Freedom,Western Europe,2015,0.60365,37,6.302,0.04206
+Malta,GDP Capita,Western Europe,2015,1.2074,37,6.302,0.04206
+Malta,Generosity,Western Europe,2015,0.51752,37,6.302,0.04206
+Malta,Gov Corruption,Western Europe,2015,0.13586,37,6.302,0.04206
+Malta,Life Expectancy,Western Europe,2015,0.88721,37,6.302,0.04206
+Taiwan,Dystopia Residual,Eastern Asia,2015,2.32323,38,6.298,0.03868
+Taiwan,Family,Eastern Asia,2015,1.07617,38,6.298,0.03868
+Taiwan,Freedom,Eastern Asia,2015,0.3974,38,6.298,0.03868
+Taiwan,GDP Capita,Eastern Asia,2015,1.29098,38,6.298,0.03868
+Taiwan,Generosity,Eastern Asia,2015,0.25376,38,6.298,0.03868
+Taiwan,Gov Corruption,Eastern Asia,2015,0.08129,38,6.298,0.03868
+Taiwan,Life Expectancy,Eastern Asia,2015,0.8753,38,6.298,0.03868
+Kuwait,Dystopia Residual,Middle East and Northern Africa,2015,1.87634,39,6.295,0.04456
+Kuwait,Family,Middle East and Northern Africa,2015,1.16594,39,6.295,0.04456
+Kuwait,Freedom,Middle East and Northern Africa,2015,0.55499,39,6.295,0.04456
+Kuwait,GDP Capita,Middle East and Northern Africa,2015,1.55422,39,6.295,0.04456
+Kuwait,Generosity,Middle East and Northern Africa,2015,0.16228,39,6.295,0.04456
+Kuwait,Gov Corruption,Middle East and Northern Africa,2015,0.25609,39,6.295,0.04456
+Kuwait,Life Expectancy,Middle East and Northern Africa,2015,0.72492,39,6.295,0.04456
+Suriname,Dystopia Residual,Latin America and Caribbean,2015,2.79094,40,6.269,0.09811
+Suriname,Family,Latin America and Caribbean,2015,0.972,40,6.269,0.09811
+Suriname,Freedom,Latin America and Caribbean,2015,0.59657,40,6.269,0.09811
+Suriname,GDP Capita,Latin America and Caribbean,2015,0.99534,40,6.269,0.09811
+Suriname,Generosity,Latin America and Caribbean,2015,0.16991,40,6.269,0.09811
+Suriname,Gov Corruption,Latin America and Caribbean,2015,0.13633,40,6.269,0.09811
+Suriname,Life Expectancy,Latin America and Caribbean,2015,0.6082,40,6.269,0.09811
+Trinidad and Tobago,Dystopia Residual,Latin America and Caribbean,2015,2.26882,41,6.168,0.10895
+Trinidad and Tobago,Family,Latin America and Caribbean,2015,1.18354,41,6.168,0.10895
+Trinidad and Tobago,Freedom,Latin America and Caribbean,2015,0.55884,41,6.168,0.10895
+Trinidad and Tobago,GDP Capita,Latin America and Caribbean,2015,1.21183,41,6.168,0.10895
+Trinidad and Tobago,Generosity,Latin America and Caribbean,2015,0.31844,41,6.168,0.10895
+Trinidad and Tobago,Gov Corruption,Latin America and Caribbean,2015,0.0114,41,6.168,0.10895
+Trinidad and Tobago,Life Expectancy,Latin America and Caribbean,2015,0.61483,41,6.168,0.10895
+El Salvador,Dystopia Residual,Latin America and Caribbean,2015,3.035,42,6.13,0.05618
+El Salvador,Family,Latin America and Caribbean,2015,1.02507,42,6.13,0.05618
+El Salvador,Freedom,Latin America and Caribbean,2015,0.4035,42,6.13,0.05618
+El Salvador,GDP Capita,Latin America and Caribbean,2015,0.76454,42,6.13,0.05618
+El Salvador,Generosity,Latin America and Caribbean,2015,0.10692,42,6.13,0.05618
+El Salvador,Gov Corruption,Latin America and Caribbean,2015,0.11776,42,6.13,0.05618
+El Salvador,Life Expectancy,Latin America and Caribbean,2015,0.67737,42,6.13,0.05618
+Guatemala,Dystopia Residual,Latin America and Caribbean,2015,2.74255,43,6.123,0.05224
+Guatemala,Family,Latin America and Caribbean,2015,1.04356,43,6.123,0.05224
+Guatemala,Freedom,Latin America and Caribbean,2015,0.57733,43,6.123,0.05224
+Guatemala,GDP Capita,Latin America and Caribbean,2015,0.74553,43,6.123,0.05224
+Guatemala,Generosity,Latin America and Caribbean,2015,0.27489,43,6.123,0.05224
+Guatemala,Gov Corruption,Latin America and Caribbean,2015,0.09472,43,6.123,0.05224
+Guatemala,Life Expectancy,Latin America and Caribbean,2015,0.64425,43,6.123,0.05224
+Uzbekistan,Dystopia Residual,Central and Eastern Europe,2015,2.23741,44,6.003,0.04361
+Uzbekistan,Family,Central and Eastern Europe,2015,1.34043,44,6.003,0.04361
+Uzbekistan,Freedom,Central and Eastern Europe,2015,0.65821,44,6.003,0.04361
+Uzbekistan,GDP Capita,Central and Eastern Europe,2015,0.63244,44,6.003,0.04361
+Uzbekistan,Generosity,Central and Eastern Europe,2015,0.22837,44,6.003,0.04361
+Uzbekistan,Gov Corruption,Central and Eastern Europe,2015,0.30826,44,6.003,0.04361
+Uzbekistan,Life Expectancy,Central and Eastern Europe,2015,0.59772,44,6.003,0.04361
+Slovakia,Dystopia Residual,Central and Eastern Europe,2015,2.24639,45,5.995,0.04267
+Slovakia,Family,Central and Eastern Europe,2015,1.26999,45,5.995,0.04267
+Slovakia,Freedom,Central and Eastern Europe,2015,0.31751,45,5.995,0.04267
+Slovakia,GDP Capita,Central and Eastern Europe,2015,1.16891,45,5.995,0.04267
+Slovakia,Generosity,Central and Eastern Europe,2015,0.16893,45,5.995,0.04267
+Slovakia,Gov Corruption,Central and Eastern Europe,2015,0.03431,45,5.995,0.04267
+Slovakia,Life Expectancy,Central and Eastern Europe,2015,0.78902,45,5.995,0.04267
+Japan,Dystopia Residual,Eastern Asia,2015,1.68435,46,5.987,0.03581
+Japan,Family,Eastern Asia,2015,1.25712,46,5.987,0.03581
+Japan,Freedom,Eastern Asia,2015,0.49615,46,5.987,0.03581
+Japan,GDP Capita,Eastern Asia,2015,1.27074,46,5.987,0.03581
+Japan,Generosity,Eastern Asia,2015,0.10705,46,5.987,0.03581
+Japan,Gov Corruption,Eastern Asia,2015,0.1806,46,5.987,0.03581
+Japan,Life Expectancy,Eastern Asia,2015,0.99111,46,5.987,0.03581
+South Korea,Dystopia Residual,Eastern Asia,2015,2.21978,47,5.984,0.04098
+South Korea,Family,Eastern Asia,2015,0.95774,47,5.984,0.04098
+South Korea,Freedom,Eastern Asia,2015,0.33208,47,5.984,0.04098
+South Korea,GDP Capita,Eastern Asia,2015,1.24461,47,5.984,0.04098
+South Korea,Generosity,Eastern Asia,2015,0.18557,47,5.984,0.04098
+South Korea,Gov Corruption,Eastern Asia,2015,0.07857,47,5.984,0.04098
+South Korea,Life Expectancy,Eastern Asia,2015,0.96538,47,5.984,0.04098
+Ecuador,Dystopia Residual,Latin America and Caribbean,2015,2.53942,48,5.975,0.04528
+Ecuador,Family,Latin America and Caribbean,2015,0.99903,48,5.975,0.04528
+Ecuador,Freedom,Latin America and Caribbean,2015,0.48574,48,5.975,0.04528
+Ecuador,GDP Capita,Latin America and Caribbean,2015,0.86402,48,5.975,0.04528
+Ecuador,Generosity,Latin America and Caribbean,2015,0.11541,48,5.975,0.04528
+Ecuador,Gov Corruption,Latin America and Caribbean,2015,0.1809,48,5.975,0.04528
+Ecuador,Life Expectancy,Latin America and Caribbean,2015,0.79075,48,5.975,0.04528
+Bahrain,Dystopia Residual,Middle East and Northern Africa,2015,1.73797,49,5.96,0.05412
+Bahrain,Family,Middle East and Northern Africa,2015,1.21624,49,5.96,0.05412
+Bahrain,Freedom,Middle East and Northern Africa,2015,0.45492,49,5.96,0.05412
+Bahrain,GDP Capita,Middle East and Northern Africa,2015,1.32376,49,5.96,0.05412
+Bahrain,Generosity,Middle East and Northern Africa,2015,0.17362,49,5.96,0.05412
+Bahrain,Gov Corruption,Middle East and Northern Africa,2015,0.306,49,5.96,0.05412
+Bahrain,Life Expectancy,Middle East and Northern Africa,2015,0.74716,49,5.96,0.05412
+Italy,Dystopia Residual,Western Europe,2015,2.02518,50,5.948,0.03914
+Italy,Family,Western Europe,2015,1.19777,50,5.948,0.03914
+Italy,Freedom,Western Europe,2015,0.26236,50,5.948,0.03914
+Italy,GDP Capita,Western Europe,2015,1.25114,50,5.948,0.03914
+Italy,Generosity,Western Europe,2015,0.22823,50,5.948,0.03914
+Italy,Gov Corruption,Western Europe,2015,0.02901,50,5.948,0.03914
+Italy,Life Expectancy,Western Europe,2015,0.95446,50,5.948,0.03914
+Bolivia,Dystopia Residual,Latin America and Caribbean,2015,2.82334,51,5.89,0.05642
+Bolivia,Family,Latin America and Caribbean,2015,0.97841,51,5.89,0.05642
+Bolivia,Freedom,Latin America and Caribbean,2015,0.57414,51,5.89,0.05642
+Bolivia,GDP Capita,Latin America and Caribbean,2015,0.68133,51,5.89,0.05642
+Bolivia,Generosity,Latin America and Caribbean,2015,0.20536,51,5.89,0.05642
+Bolivia,Gov Corruption,Latin America and Caribbean,2015,0.088,51,5.89,0.05642
+Bolivia,Life Expectancy,Latin America and Caribbean,2015,0.5392,51,5.89,0.05642
+Moldova,Dystopia Residual,Central and Eastern Europe,2015,3.10712,52,5.889,0.03799
+Moldova,Family,Central and Eastern Europe,2015,1.01528,52,5.889,0.03799
+Moldova,Freedom,Central and Eastern Europe,2015,0.32818,52,5.889,0.03799
+Moldova,GDP Capita,Central and Eastern Europe,2015,0.59448,52,5.889,0.03799
+Moldova,Generosity,Central and Eastern Europe,2015,0.20951,52,5.889,0.03799
+Moldova,Gov Corruption,Central and Eastern Europe,2015,0.01615,52,5.889,0.03799
+Moldova,Life Expectancy,Central and Eastern Europe,2015,0.61826,52,5.889,0.03799
+Paraguay,Dystopia Residual,Latin America and Caribbean,2015,2.18896,53,5.878,0.04563
+Paraguay,Family,Latin America and Caribbean,2015,1.30477,53,5.878,0.04563
+Paraguay,Freedom,Latin America and Caribbean,2015,0.53899,53,5.878,0.04563
+Paraguay,GDP Capita,Latin America and Caribbean,2015,0.75985,53,5.878,0.04563
+Paraguay,Generosity,Latin America and Caribbean,2015,0.3424,53,5.878,0.04563
+Paraguay,Gov Corruption,Latin America and Caribbean,2015,0.08242,53,5.878,0.04563
+Paraguay,Life Expectancy,Latin America and Caribbean,2015,0.66098,53,5.878,0.04563
+Kazakhstan,Dystopia Residual,Central and Eastern Europe,2015,2.24729,54,5.855,0.04114
+Kazakhstan,Family,Central and Eastern Europe,2015,1.12241,54,5.855,0.04114
+Kazakhstan,Freedom,Central and Eastern Europe,2015,0.51649,54,5.855,0.04114
+Kazakhstan,GDP Capita,Central and Eastern Europe,2015,1.12254,54,5.855,0.04114
+Kazakhstan,Generosity,Central and Eastern Europe,2015,0.11827,54,5.855,0.04114
+Kazakhstan,Gov Corruption,Central and Eastern Europe,2015,0.08454,54,5.855,0.04114
+Kazakhstan,Life Expectancy,Central and Eastern Europe,2015,0.64368,54,5.855,0.04114
+Slovenia,Dystopia Residual,Central and Eastern Europe,2015,1.61583,55,5.848,0.04251
+Slovenia,Family,Central and Eastern Europe,2015,1.27385,55,5.848,0.04251
+Slovenia,Freedom,Central and Eastern Europe,2015,0.60855,55,5.848,0.04251
+Slovenia,GDP Capita,Central and Eastern Europe,2015,1.18498,55,5.848,0.04251
+Slovenia,Generosity,Central and Eastern Europe,2015,0.25328,55,5.848,0.04251
+Slovenia,Gov Corruption,Central and Eastern Europe,2015,0.03787,55,5.848,0.04251
+Slovenia,Life Expectancy,Central and Eastern Europe,2015,0.87337,55,5.848,0.04251
+Lithuania,Dystopia Residual,Central and Eastern Europe,2015,2.44649,56,5.833,0.03843
+Lithuania,Family,Central and Eastern Europe,2015,1.25745,56,5.833,0.03843
+Lithuania,Freedom,Central and Eastern Europe,2015,0.21342,56,5.833,0.03843
+Lithuania,GDP Capita,Central and Eastern Europe,2015,1.14723,56,5.833,0.03843
+Lithuania,Generosity,Central and Eastern Europe,2015,0.02641,56,5.833,0.03843
+Lithuania,Gov Corruption,Central and Eastern Europe,2015,0.01031,56,5.833,0.03843
+Lithuania,Life Expectancy,Central and Eastern Europe,2015,0.73128,56,5.833,0.03843
+Nicaragua,Dystopia Residual,Latin America and Caribbean,2015,2.32407,57,5.828,0.05371
+Nicaragua,Family,Latin America and Caribbean,2015,1.14184,57,5.828,0.05371
+Nicaragua,Freedom,Latin America and Caribbean,2015,0.55475,57,5.828,0.05371
+Nicaragua,GDP Capita,Latin America and Caribbean,2015,0.59325,57,5.828,0.05371
+Nicaragua,Generosity,Latin America and Caribbean,2015,0.27815,57,5.828,0.05371
+Nicaragua,Gov Corruption,Latin America and Caribbean,2015,0.19317,57,5.828,0.05371
+Nicaragua,Life Expectancy,Latin America and Caribbean,2015,0.74314,57,5.828,0.05371
+Peru,Dystopia Residual,Latin America and Caribbean,2015,2.5945,58,5.824,0.04615
+Peru,Family,Latin America and Caribbean,2015,0.97459,58,5.824,0.04615
+Peru,Freedom,Latin America and Caribbean,2015,0.41496,58,5.824,0.04615
+Peru,GDP Capita,Latin America and Caribbean,2015,0.90019,58,5.824,0.04615
+Peru,Generosity,Latin America and Caribbean,2015,0.14982,58,5.824,0.04615
+Peru,Gov Corruption,Latin America and Caribbean,2015,0.05989,58,5.824,0.04615
+Peru,Life Expectancy,Latin America and Caribbean,2015,0.73017,58,5.824,0.04615
+Belarus,Dystopia Residual,Central and Eastern Europe,2015,2.1309,59,5.813,0.03938
+Belarus,Family,Central and Eastern Europe,2015,1.23289,59,5.813,0.03938
+Belarus,Freedom,Central and Eastern Europe,2015,0.37938,59,5.813,0.03938
+Belarus,GDP Capita,Central and Eastern Europe,2015,1.03192,59,5.813,0.03938
+Belarus,Generosity,Central and Eastern Europe,2015,0.11046,59,5.813,0.03938
+Belarus,Gov Corruption,Central and Eastern Europe,2015,0.1909,59,5.813,0.03938
+Belarus,Life Expectancy,Central and Eastern Europe,2015,0.73608,59,5.813,0.03938
+Poland,Dystopia Residual,Central and Eastern Europe,2015,1.86565,60,5.791,0.04263
+Poland,Family,Central and Eastern Europe,2015,1.27948,60,5.791,0.04263
+Poland,Freedom,Central and Eastern Europe,2015,0.53122,60,5.791,0.04263
+Poland,GDP Capita,Central and Eastern Europe,2015,1.12555,60,5.791,0.04263
+Poland,Generosity,Central and Eastern Europe,2015,0.16759,60,5.791,0.04263
+Poland,Gov Corruption,Central and Eastern Europe,2015,0.04212,60,5.791,0.04263
+Poland,Life Expectancy,Central and Eastern Europe,2015,0.77903,60,5.791,0.04263
+Malaysia,Dystopia Residual,Southeastern Asia,2015,1.88541,61,5.77,0.0433
+Malaysia,Family,Southeastern Asia,2015,1.07023,61,5.77,0.0433
+Malaysia,Freedom,Southeastern Asia,2015,0.53024,61,5.77,0.0433
+Malaysia,GDP Capita,Southeastern Asia,2015,1.12486,61,5.77,0.0433
+Malaysia,Generosity,Southeastern Asia,2015,0.33075,61,5.77,0.0433
+Malaysia,Gov Corruption,Southeastern Asia,2015,0.10501,61,5.77,0.0433
+Malaysia,Life Expectancy,Southeastern Asia,2015,0.72394,61,5.77,0.0433
+Croatia,Dystopia Residual,Central and Eastern Europe,2015,2.75414,62,5.759,0.04394
+Croatia,Family,Central and Eastern Europe,2015,0.79624,62,5.759,0.04394
+Croatia,Freedom,Central and Eastern Europe,2015,0.25883,62,5.759,0.04394
+Croatia,GDP Capita,Central and Eastern Europe,2015,1.08254,62,5.759,0.04394
+Croatia,Generosity,Central and Eastern Europe,2015,0.05444,62,5.759,0.04394
+Croatia,Gov Corruption,Central and Eastern Europe,2015,0.0243,62,5.759,0.04394
+Croatia,Life Expectancy,Central and Eastern Europe,2015,0.78805,62,5.759,0.04394
+Libya,Dystopia Residual,Middle East and Northern Africa,2015,2.09066,63,5.754,0.07832
+Libya,Family,Middle East and Northern Africa,2015,1.11862,63,5.754,0.07832
+Libya,Freedom,Middle East and Northern Africa,2015,0.41668,63,5.754,0.07832
+Libya,GDP Capita,Middle East and Northern Africa,2015,1.13145,63,5.754,0.07832
+Libya,Generosity,Middle East and Northern Africa,2015,0.18295,63,5.754,0.07832
+Libya,Gov Corruption,Middle East and Northern Africa,2015,0.11023,63,5.754,0.07832
+Libya,Life Expectancy,Middle East and Northern Africa,2015,0.7038,63,5.754,0.07832
+Russia,Dystopia Residual,Central and Eastern Europe,2015,2.27394,64,5.716,0.03135
+Russia,Family,Central and Eastern Europe,2015,1.23617,64,5.716,0.03135
+Russia,Freedom,Central and Eastern Europe,2015,0.36679,64,5.716,0.03135
+Russia,GDP Capita,Central and Eastern Europe,2015,1.13764,64,5.716,0.03135
+Russia,Generosity,Central and Eastern Europe,2015,0.00199,64,5.716,0.03135
+Russia,Gov Corruption,Central and Eastern Europe,2015,0.03005,64,5.716,0.03135
+Russia,Life Expectancy,Central and Eastern Europe,2015,0.66926,64,5.716,0.03135
+Jamaica,Dystopia Residual,Latin America and Caribbean,2015,2.32038,65,5.709,0.13693
+Jamaica,Family,Latin America and Caribbean,2015,1.15102,65,5.709,0.13693
+Jamaica,Freedom,Latin America and Caribbean,2015,0.50442,65,5.709,0.13693
+Jamaica,GDP Capita,Latin America and Caribbean,2015,0.81038,65,5.709,0.13693
+Jamaica,Generosity,Latin America and Caribbean,2015,0.2123,65,5.709,0.13693
+Jamaica,Gov Corruption,Latin America and Caribbean,2015,0.02299,65,5.709,0.13693
+Jamaica,Life Expectancy,Latin America and Caribbean,2015,0.68741,65,5.709,0.13693
+North Cyprus,Dystopia Residual,Western Europe,2015,1.59888,66,5.695,0.05635
+North Cyprus,Family,Western Europe,2015,1.07008,66,5.695,0.05635
+North Cyprus,Freedom,Western Europe,2015,0.49027,66,5.695,0.05635
+North Cyprus,GDP Capita,Western Europe,2015,1.20806,66,5.695,0.05635
+North Cyprus,Generosity,Western Europe,2015,0.26169,66,5.695,0.05635
+North Cyprus,Gov Corruption,Western Europe,2015,0.1428,66,5.695,0.05635
+North Cyprus,Life Expectancy,Western Europe,2015,0.92356,66,5.695,0.05635
+Cyprus,Dystopia Residual,Western Europe,2015,1.88931,67,5.689,0.0558
+Cyprus,Family,Western Europe,2015,0.89318,67,5.689,0.0558
+Cyprus,Freedom,Western Europe,2015,0.40672,67,5.689,0.0558
+Cyprus,GDP Capita,Western Europe,2015,1.20813,67,5.689,0.0558
+Cyprus,Generosity,Western Europe,2015,0.30638,67,5.689,0.0558
+Cyprus,Gov Corruption,Western Europe,2015,0.06146,67,5.689,0.0558
+Cyprus,Life Expectancy,Western Europe,2015,0.92356,67,5.689,0.0558
+Algeria,Dystopia Residual,Middle East and Northern Africa,2015,2.43209,68,5.605,0.05099
+Algeria,Family,Middle East and Northern Africa,2015,1.07772,68,5.605,0.05099
+Algeria,Freedom,Middle East and Northern Africa,2015,0.28579,68,5.605,0.05099
+Algeria,GDP Capita,Middle East and Northern Africa,2015,0.93929,68,5.605,0.05099
+Algeria,Generosity,Middle East and Northern Africa,2015,0.07822,68,5.605,0.05099
+Algeria,Gov Corruption,Middle East and Northern Africa,2015,0.17383,68,5.605,0.05099
+Algeria,Life Expectancy,Middle East and Northern Africa,2015,0.61766,68,5.605,0.05099
+Kosovo,Dystopia Residual,Central and Eastern Europe,2015,2.76579,69,5.589,0.05018
+Kosovo,Family,Central and Eastern Europe,2015,0.81198,69,5.589,0.05018
+Kosovo,Freedom,Central and Eastern Europe,2015,0.24749,69,5.589,0.05018
+Kosovo,GDP Capita,Central and Eastern Europe,2015,0.80148,69,5.589,0.05018
+Kosovo,Generosity,Central and Eastern Europe,2015,0.2831,69,5.589,0.05018
+Kosovo,Gov Corruption,Central and Eastern Europe,2015,0.04741,69,5.589,0.05018
+Kosovo,Life Expectancy,Central and Eastern Europe,2015,0.63132,69,5.589,0.05018
+Turkmenistan,Dystopia Residual,Central and Eastern Europe,2015,1.86984,70,5.548,0.04175
+Turkmenistan,Family,Central and Eastern Europe,2015,1.22668,70,5.548,0.04175
+Turkmenistan,Freedom,Central and Eastern Europe,2015,0.4761,70,5.548,0.04175
+Turkmenistan,GDP Capita,Central and Eastern Europe,2015,0.95847,70,5.548,0.04175
+Turkmenistan,Generosity,Central and Eastern Europe,2015,0.16979,70,5.548,0.04175
+Turkmenistan,Gov Corruption,Central and Eastern Europe,2015,0.30844,70,5.548,0.04175
+Turkmenistan,Life Expectancy,Central and Eastern Europe,2015,0.53886,70,5.548,0.04175
+Mauritius,Dystopia Residual,Sub-Saharan Africa,2015,1.76145,71,5.477,0.07197
+Mauritius,Family,Sub-Saharan Africa,2015,0.98521,71,5.477,0.07197
+Mauritius,Freedom,Sub-Saharan Africa,2015,0.56066,71,5.477,0.07197
+Mauritius,GDP Capita,Sub-Saharan Africa,2015,1.00761,71,5.477,0.07197
+Mauritius,Generosity,Sub-Saharan Africa,2015,0.37744,71,5.477,0.07197
+Mauritius,Gov Corruption,Sub-Saharan Africa,2015,0.07521,71,5.477,0.07197
+Mauritius,Life Expectancy,Sub-Saharan Africa,2015,0.7095,71,5.477,0.07197
+Hong Kong,Dystopia Residual,Eastern Asia,2015,0.65429,72,5.474,0.05051
+Hong Kong,Family,Eastern Asia,2015,1.05818,72,5.474,0.05051
+Hong Kong,Freedom,Eastern Asia,2015,0.59608,72,5.474,0.05051
+Hong Kong,GDP Capita,Eastern Asia,2015,1.38604,72,5.474,0.05051
+Hong Kong,Generosity,Eastern Asia,2015,0.39478,72,5.474,0.05051
+Hong Kong,Gov Corruption,Eastern Asia,2015,0.37124,72,5.474,0.05051
+Hong Kong,Life Expectancy,Eastern Asia,2015,1.01328,72,5.474,0.05051
+Estonia,Dystopia Residual,Central and Eastern Europe,2015,1.58782,73,5.429,0.04013
+Estonia,Family,Central and Eastern Europe,2015,1.22791,73,5.429,0.04013
+Estonia,Freedom,Central and Eastern Europe,2015,0.44888,73,5.429,0.04013
+Estonia,GDP Capita,Central and Eastern Europe,2015,1.15174,73,5.429,0.04013
+Estonia,Generosity,Central and Eastern Europe,2015,0.0868,73,5.429,0.04013
+Estonia,Gov Corruption,Central and Eastern Europe,2015,0.15184,73,5.429,0.04013
+Estonia,Life Expectancy,Central and Eastern Europe,2015,0.77361,73,5.429,0.04013
+Indonesia,Dystopia Residual,Southeastern Asia,2015,1.86399,74,5.399,0.02596
+Indonesia,Family,Southeastern Asia,2015,1.08708,74,5.399,0.02596
+Indonesia,Freedom,Southeastern Asia,2015,0.46611,74,5.399,0.02596
+Indonesia,GDP Capita,Southeastern Asia,2015,0.82827,74,5.399,0.02596
+Indonesia,Generosity,Southeastern Asia,2015,0.51535,74,5.399,0.02596
+Indonesia,Gov Corruption,Southeastern Asia,2015,0,74,5.399,0.02596
+Indonesia,Life Expectancy,Southeastern Asia,2015,0.63793,74,5.399,0.02596
+Vietnam,Dystopia Residual,Southeastern Asia,2015,2.20173,75,5.36,0.03107
+Vietnam,Family,Southeastern Asia,2015,0.91226,75,5.36,0.03107
+Vietnam,Freedom,Southeastern Asia,2015,0.59444,75,5.36,0.03107
+Vietnam,GDP Capita,Southeastern Asia,2015,0.63216,75,5.36,0.03107
+Vietnam,Generosity,Southeastern Asia,2015,0.1686,75,5.36,0.03107
+Vietnam,Gov Corruption,Southeastern Asia,2015,0.10441,75,5.36,0.03107
+Vietnam,Life Expectancy,Southeastern Asia,2015,0.74676,75,5.36,0.03107
+Turkey,Dystopia Residual,Middle East and Northern Africa,2015,2.08528,76,5.332,0.03864
+Turkey,Family,Middle East and Northern Africa,2015,0.94632,76,5.332,0.03864
+Turkey,Freedom,Middle East and Northern Africa,2015,0.22815,76,5.332,0.03864
+Turkey,GDP Capita,Middle East and Northern Africa,2015,1.06098,76,5.332,0.03864
+Turkey,Generosity,Middle East and Northern Africa,2015,0.12253,76,5.332,0.03864
+Turkey,Gov Corruption,Middle East and Northern Africa,2015,0.15746,76,5.332,0.03864
+Turkey,Life Expectancy,Middle East and Northern Africa,2015,0.73172,76,5.332,0.03864
+Kyrgyzstan,Dystopia Residual,Central and Eastern Europe,2015,2.2327,77,5.286,0.03823
+Kyrgyzstan,Family,Central and Eastern Europe,2015,1.15115,77,5.286,0.03823
+Kyrgyzstan,Freedom,Central and Eastern Europe,2015,0.43477,77,5.286,0.03823
+Kyrgyzstan,GDP Capita,Central and Eastern Europe,2015,0.47428,77,5.286,0.03823
+Kyrgyzstan,Generosity,Central and Eastern Europe,2015,0.3003,77,5.286,0.03823
+Kyrgyzstan,Gov Corruption,Central and Eastern Europe,2015,0.04232,77,5.286,0.03823
+Kyrgyzstan,Life Expectancy,Central and Eastern Europe,2015,0.65088,77,5.286,0.03823
+Nigeria,Dystopia Residual,Sub-Saharan Africa,2015,2.89319,78,5.268,0.04192
+Nigeria,Family,Sub-Saharan Africa,2015,0.90432,78,5.268,0.04192
+Nigeria,Freedom,Sub-Saharan Africa,2015,0.34334,78,5.268,0.04192
+Nigeria,GDP Capita,Sub-Saharan Africa,2015,0.65435,78,5.268,0.04192
+Nigeria,Generosity,Sub-Saharan Africa,2015,0.27233,78,5.268,0.04192
+Nigeria,Gov Corruption,Sub-Saharan Africa,2015,0.0403,78,5.268,0.04192
+Nigeria,Life Expectancy,Sub-Saharan Africa,2015,0.16007,78,5.268,0.04192
+Bhutan,Dystopia Residual,Southern Asia,2015,1.63794,79,5.253,0.03225
+Bhutan,Family,Southern Asia,2015,1.10395,79,5.253,0.03225
+Bhutan,Freedom,Southern Asia,2015,0.53206,79,5.253,0.03225
+Bhutan,GDP Capita,Southern Asia,2015,0.77042,79,5.253,0.03225
+Bhutan,Generosity,Southern Asia,2015,0.47998,79,5.253,0.03225
+Bhutan,Gov Corruption,Southern Asia,2015,0.15445,79,5.253,0.03225
+Bhutan,Life Expectancy,Southern Asia,2015,0.57407,79,5.253,0.03225
+Azerbaijan,Dystopia Residual,Central and Eastern Europe,2015,2.00073,80,5.212,0.03363
+Azerbaijan,Family,Central and Eastern Europe,2015,0.93793,80,5.212,0.03363
+Azerbaijan,Freedom,Central and Eastern Europe,2015,0.3703,80,5.212,0.03363
+Azerbaijan,GDP Capita,Central and Eastern Europe,2015,1.02389,80,5.212,0.03363
+Azerbaijan,Generosity,Central and Eastern Europe,2015,0.07799,80,5.212,0.03363
+Azerbaijan,Gov Corruption,Central and Eastern Europe,2015,0.16065,80,5.212,0.03363
+Azerbaijan,Life Expectancy,Central and Eastern Europe,2015,0.64045,80,5.212,0.03363
+Pakistan,Dystopia Residual,Southern Asia,2015,3.10709,81,5.194,0.03726
+Pakistan,Family,Southern Asia,2015,0.41411,81,5.194,0.03726
+Pakistan,Freedom,Southern Asia,2015,0.12102,81,5.194,0.03726
+Pakistan,GDP Capita,Southern Asia,2015,0.59543,81,5.194,0.03726
+Pakistan,Generosity,Southern Asia,2015,0.33671,81,5.194,0.03726
+Pakistan,Gov Corruption,Southern Asia,2015,0.10464,81,5.194,0.03726
+Pakistan,Life Expectancy,Southern Asia,2015,0.51466,81,5.194,0.03726
+Jordan,Dystopia Residual,Middle East and Northern Africa,2015,1.87996,82,5.192,0.04524
+Jordan,Family,Middle East and Northern Africa,2015,1.05392,82,5.192,0.04524
+Jordan,Freedom,Middle East and Northern Africa,2015,0.40661,82,5.192,0.04524
+Jordan,GDP Capita,Middle East and Northern Africa,2015,0.90198,82,5.192,0.04524
+Jordan,Generosity,Middle East and Northern Africa,2015,0.11053,82,5.192,0.04524
+Jordan,Gov Corruption,Middle East and Northern Africa,2015,0.14293,82,5.192,0.04524
+Jordan,Life Expectancy,Middle East and Northern Africa,2015,0.69639,82,5.192,0.04524
+Montenegro,Dystopia Residual,Central and Eastern Europe,2015,2.10017,82,5.192,0.05235
+Montenegro,Family,Central and Eastern Europe,2015,0.90557,82,5.192,0.05235
+Montenegro,Freedom,Central and Eastern Europe,2015,0.1826,82,5.192,0.05235
+Montenegro,GDP Capita,Central and Eastern Europe,2015,0.97438,82,5.192,0.05235
+Montenegro,Generosity,Central and Eastern Europe,2015,0.1614,82,5.192,0.05235
+Montenegro,Gov Corruption,Central and Eastern Europe,2015,0.14296,82,5.192,0.05235
+Montenegro,Life Expectancy,Central and Eastern Europe,2015,0.72521,82,5.192,0.05235
+China,Dystopia Residual,Eastern Asia,2015,1.8604,84,5.14,0.02424
+China,Family,Eastern Asia,2015,0.94675,84,5.14,0.02424
+China,Freedom,Eastern Asia,2015,0.51697,84,5.14,0.02424
+China,GDP Capita,Eastern Asia,2015,0.89012,84,5.14,0.02424
+China,Generosity,Eastern Asia,2015,0.08185,84,5.14,0.02424
+China,Gov Corruption,Eastern Asia,2015,0.02781,84,5.14,0.02424
+China,Life Expectancy,Eastern Asia,2015,0.81658,84,5.14,0.02424
+Zambia,Dystopia Residual,Sub-Saharan Africa,2015,2.6343,85,5.129,0.06988
+Zambia,Family,Sub-Saharan Africa,2015,0.91612,85,5.129,0.06988
+Zambia,Freedom,Sub-Saharan Africa,2015,0.48827,85,5.129,0.06988
+Zambia,GDP Capita,Sub-Saharan Africa,2015,0.47038,85,5.129,0.06988
+Zambia,Generosity,Sub-Saharan Africa,2015,0.19591,85,5.129,0.06988
+Zambia,Gov Corruption,Sub-Saharan Africa,2015,0.12468,85,5.129,0.06988
+Zambia,Life Expectancy,Sub-Saharan Africa,2015,0.29924,85,5.129,0.06988
+Romania,Dystopia Residual,Central and Eastern Europe,2015,1.93129,86,5.124,0.06607
+Romania,Family,Central and Eastern Europe,2015,0.88588,86,5.124,0.06607
+Romania,Freedom,Central and Eastern Europe,2015,0.35068,86,5.124,0.06607
+Romania,GDP Capita,Central and Eastern Europe,2015,1.04345,86,5.124,0.06607
+Romania,Generosity,Central and Eastern Europe,2015,0.13748,86,5.124,0.06607
+Romania,Gov Corruption,Central and Eastern Europe,2015,0.00649,86,5.124,0.06607
+Romania,Life Expectancy,Central and Eastern Europe,2015,0.7689,86,5.124,0.06607
+Serbia,Dystopia Residual,Central and Eastern Europe,2015,2.025,87,5.123,0.04864
+Serbia,Family,Central and Eastern Europe,2015,1.00964,87,5.123,0.04864
+Serbia,Freedom,Central and Eastern Europe,2015,0.20107,87,5.123,0.04864
+Serbia,GDP Capita,Central and Eastern Europe,2015,0.92053,87,5.123,0.04864
+Serbia,Generosity,Central and Eastern Europe,2015,0.19231,87,5.123,0.04864
+Serbia,Gov Corruption,Central and Eastern Europe,2015,0.02617,87,5.123,0.04864
+Serbia,Life Expectancy,Central and Eastern Europe,2015,0.74836,87,5.123,0.04864
+Portugal,Dystopia Residual,Western Europe,2015,1.26462,88,5.102,0.04802
+Portugal,Family,Western Europe,2015,1.13935,88,5.102,0.04802
+Portugal,Freedom,Western Europe,2015,0.51469,88,5.102,0.04802
+Portugal,GDP Capita,Western Europe,2015,1.15991,88,5.102,0.04802
+Portugal,Generosity,Western Europe,2015,0.13719,88,5.102,0.04802
+Portugal,Gov Corruption,Western Europe,2015,0.01078,88,5.102,0.04802
+Portugal,Life Expectancy,Western Europe,2015,0.87519,88,5.102,0.04802
+Latvia,Dystopia Residual,Central and Eastern Europe,2015,1.62215,89,5.098,0.0464
+Latvia,Family,Central and Eastern Europe,2015,1.09562,89,5.098,0.0464
+Latvia,Freedom,Central and Eastern Europe,2015,0.29671,89,5.098,0.0464
+Latvia,GDP Capita,Central and Eastern Europe,2015,1.11312,89,5.098,0.0464
+Latvia,Generosity,Central and Eastern Europe,2015,0.18226,89,5.098,0.0464
+Latvia,Gov Corruption,Central and Eastern Europe,2015,0.06332,89,5.098,0.0464
+Latvia,Life Expectancy,Central and Eastern Europe,2015,0.72437,89,5.098,0.0464
+Philippines,Dystopia Residual,Southeastern Asia,2015,1.7536,90,5.073,0.04934
+Philippines,Family,Southeastern Asia,2015,1.03516,90,5.073,0.04934
+Philippines,Freedom,Southeastern Asia,2015,0.62545,90,5.073,0.04934
+Philippines,GDP Capita,Southeastern Asia,2015,0.70532,90,5.073,0.04934
+Philippines,Generosity,Southeastern Asia,2015,0.24991,90,5.073,0.04934
+Philippines,Gov Corruption,Southeastern Asia,2015,0.12279,90,5.073,0.04934
+Philippines,Life Expectancy,Southeastern Asia,2015,0.58114,90,5.073,0.04934
+Somaliland,Dystopia Residual,Sub-Saharan Africa,2015,2.11032,91,5.057,0.06161
+Somaliland,Family,Sub-Saharan Africa,2015,0.95152,91,5.057,0.06161
+Somaliland,Freedom,Sub-Saharan Africa,2015,0.46582,91,5.057,0.06161
+Somaliland,GDP Capita,Sub-Saharan Africa,2015,0.18847,91,5.057,0.06161
+Somaliland,Generosity,Sub-Saharan Africa,2015,0.50318,91,5.057,0.06161
+Somaliland,Gov Corruption,Sub-Saharan Africa,2015,0.39928,91,5.057,0.06161
+Somaliland,Life Expectancy,Sub-Saharan Africa,2015,0.43873,91,5.057,0.06161
+Morocco,Dystopia Residual,Middle East and Northern Africa,2015,2.45373,92,5.013,0.0342
+Morocco,Family,Middle East and Northern Africa,2015,0.64095,92,5.013,0.0342
+Morocco,Freedom,Middle East and Northern Africa,2015,0.41691,92,5.013,0.0342
+Morocco,GDP Capita,Middle East and Northern Africa,2015,0.73479,92,5.013,0.0342
+Morocco,Generosity,Middle East and Northern Africa,2015,0.07172,92,5.013,0.0342
+Morocco,Gov Corruption,Middle East and Northern Africa,2015,0.08546,92,5.013,0.0342
+Morocco,Life Expectancy,Middle East and Northern Africa,2015,0.60954,92,5.013,0.0342
+Macedonia,Dystopia Residual,Central and Eastern Europe,2015,1.73933,93,5.007,0.05376
+Macedonia,Family,Central and Eastern Europe,2015,1.00232,93,5.007,0.05376
+Macedonia,Freedom,Central and Eastern Europe,2015,0.33457,93,5.007,0.05376
+Macedonia,GDP Capita,Central and Eastern Europe,2015,0.91851,93,5.007,0.05376
+Macedonia,Generosity,Central and Eastern Europe,2015,0.22359,93,5.007,0.05376
+Macedonia,Gov Corruption,Central and Eastern Europe,2015,0.05327,93,5.007,0.05376
+Macedonia,Life Expectancy,Central and Eastern Europe,2015,0.73545,93,5.007,0.05376
+Mozambique,Dystopia Residual,Sub-Saharan Africa,2015,3.05137,94,4.971,0.07896
+Mozambique,Family,Sub-Saharan Africa,2015,1.02626,94,4.971,0.07896
+Mozambique,Freedom,Sub-Saharan Africa,2015,0.34037,94,4.971,0.07896
+Mozambique,GDP Capita,Sub-Saharan Africa,2015,0.08308,94,4.971,0.07896
+Mozambique,Generosity,Sub-Saharan Africa,2015,0.22269,94,4.971,0.07896
+Mozambique,Gov Corruption,Sub-Saharan Africa,2015,0.15603,94,4.971,0.07896
+Mozambique,Life Expectancy,Sub-Saharan Africa,2015,0.09131,94,4.971,0.07896
+Albania,Dystopia Residual,Central and Eastern Europe,2015,1.89894,95,4.959,0.05013
+Albania,Family,Central and Eastern Europe,2015,0.80434,95,4.959,0.05013
+Albania,Freedom,Central and Eastern Europe,2015,0.35733,95,4.959,0.05013
+Albania,GDP Capita,Central and Eastern Europe,2015,0.87867,95,4.959,0.05013
+Albania,Generosity,Central and Eastern Europe,2015,0.14272,95,4.959,0.05013
+Albania,Gov Corruption,Central and Eastern Europe,2015,0.06413,95,4.959,0.05013
+Albania,Life Expectancy,Central and Eastern Europe,2015,0.81325,95,4.959,0.05013
+Bosnia and Herzegovina,Dystopia Residual,Central and Eastern Europe,2015,2.06367,96,4.949,0.06913
+Bosnia and Herzegovina,Family,Central and Eastern Europe,2015,0.91916,96,4.949,0.06913
+Bosnia and Herzegovina,Freedom,Central and Eastern Europe,2015,0.09245,96,4.949,0.06913
+Bosnia and Herzegovina,GDP Capita,Central and Eastern Europe,2015,0.83223,96,4.949,0.06913
+Bosnia and Herzegovina,Generosity,Central and Eastern Europe,2015,0.24808,96,4.949,0.06913
+Bosnia and Herzegovina,Gov Corruption,Central and Eastern Europe,2015,0.00227,96,4.949,0.06913
+Bosnia and Herzegovina,Life Expectancy,Central and Eastern Europe,2015,0.79081,96,4.949,0.06913
+Lesotho,Dystopia Residual,Sub-Saharan Africa,2015,2.79832,97,4.898,0.09438
+Lesotho,Family,Sub-Saharan Africa,2015,1.04103,97,4.898,0.09438
+Lesotho,Freedom,Sub-Saharan Africa,2015,0.31767,97,4.898,0.09438
+Lesotho,GDP Capita,Sub-Saharan Africa,2015,0.37545,97,4.898,0.09438
+Lesotho,Generosity,Sub-Saharan Africa,2015,0.16388,97,4.898,0.09438
+Lesotho,Gov Corruption,Sub-Saharan Africa,2015,0.12504,97,4.898,0.09438
+Lesotho,Life Expectancy,Sub-Saharan Africa,2015,0.07612,97,4.898,0.09438
+Dominican Republic,Dystopia Residual,Latin America and Caribbean,2015,1.21305,98,4.885,0.07446
+Dominican Republic,Family,Latin America and Caribbean,2015,1.17202,98,4.885,0.07446
+Dominican Republic,Freedom,Latin America and Caribbean,2015,0.57672,98,4.885,0.07446
+Dominican Republic,GDP Capita,Latin America and Caribbean,2015,0.89537,98,4.885,0.07446
+Dominican Republic,Generosity,Latin America and Caribbean,2015,0.21684,98,4.885,0.07446
+Dominican Republic,Gov Corruption,Latin America and Caribbean,2015,0.14234,98,4.885,0.07446
+Dominican Republic,Life Expectancy,Latin America and Caribbean,2015,0.66825,98,4.885,0.07446
+Laos,Dystopia Residual,Southeastern Asia,2015,1.73799,99,4.876,0.06698
+Laos,Family,Southeastern Asia,2015,0.73803,99,4.876,0.06698
+Laos,Freedom,Southeastern Asia,2015,0.59591,99,4.876,0.06698
+Laos,GDP Capita,Southeastern Asia,2015,0.59066,99,4.876,0.06698
+Laos,Generosity,Southeastern Asia,2015,0.42192,99,4.876,0.06698
+Laos,Gov Corruption,Southeastern Asia,2015,0.24249,99,4.876,0.06698
+Laos,Life Expectancy,Southeastern Asia,2015,0.54909,99,4.876,0.06698
+Mongolia,Dystopia Residual,Eastern Asia,2015,1.34759,100,4.874,0.03313
+Mongolia,Family,Eastern Asia,2015,1.3006,100,4.874,0.03313
+Mongolia,Freedom,Eastern Asia,2015,0.43626,100,4.874,0.03313
+Mongolia,GDP Capita,Eastern Asia,2015,0.82819,100,4.874,0.03313
+Mongolia,Generosity,Eastern Asia,2015,0.3323,100,4.874,0.03313
+Mongolia,Gov Corruption,Eastern Asia,2015,0.02666,100,4.874,0.03313
+Mongolia,Life Expectancy,Eastern Asia,2015,0.60268,100,4.874,0.03313
+Swaziland,Dystopia Residual,Sub-Saharan Africa,2015,2.48676,101,4.867,0.08742
+Swaziland,Family,Sub-Saharan Africa,2015,1.07284,101,4.867,0.08742
+Swaziland,Freedom,Sub-Saharan Africa,2015,0.30658,101,4.867,0.08742
+Swaziland,GDP Capita,Sub-Saharan Africa,2015,0.71206,101,4.867,0.08742
+Swaziland,Generosity,Sub-Saharan Africa,2015,0.18259,101,4.867,0.08742
+Swaziland,Gov Corruption,Sub-Saharan Africa,2015,0.0306,101,4.867,0.08742
+Swaziland,Life Expectancy,Sub-Saharan Africa,2015,0.07566,101,4.867,0.08742
+Greece,Dystopia Residual,Western Europe,2015,1.80101,102,4.857,0.05062
+Greece,Family,Western Europe,2015,0.92933,102,4.857,0.05062
+Greece,Freedom,Western Europe,2015,0.07699,102,4.857,0.05062
+Greece,GDP Capita,Western Europe,2015,1.15406,102,4.857,0.05062
+Greece,Generosity,Western Europe,2015,0,102,4.857,0.05062
+Greece,Gov Corruption,Western Europe,2015,0.01397,102,4.857,0.05062
+Greece,Life Expectancy,Western Europe,2015,0.88213,102,4.857,0.05062
+Lebanon,Dystopia Residual,Middle East and Northern Africa,2015,1.57059,103,4.839,0.04337
+Lebanon,Family,Middle East and Northern Africa,2015,0.80001,103,4.839,0.04337
+Lebanon,Freedom,Middle East and Northern Africa,2015,0.33916,103,4.839,0.04337
+Lebanon,GDP Capita,Middle East and Northern Africa,2015,1.02564,103,4.839,0.04337
+Lebanon,Generosity,Middle East and Northern Africa,2015,0.21854,103,4.839,0.04337
+Lebanon,Gov Corruption,Middle East and Northern Africa,2015,0.04582,103,4.839,0.04337
+Lebanon,Life Expectancy,Middle East and Northern Africa,2015,0.83947,103,4.839,0.04337
+Hungary,Dystopia Residual,Central and Eastern Europe,2015,1.24074,104,4.8,0.06107
+Hungary,Family,Central and Eastern Europe,2015,1.20215,104,4.8,0.06107
+Hungary,Freedom,Central and Eastern Europe,2015,0.32112,104,4.8,0.06107
+Hungary,GDP Capita,Central and Eastern Europe,2015,1.12094,104,4.8,0.06107
+Hungary,Generosity,Central and Eastern Europe,2015,0.128,104,4.8,0.06107
+Hungary,Gov Corruption,Central and Eastern Europe,2015,0.02758,104,4.8,0.06107
+Hungary,Life Expectancy,Central and Eastern Europe,2015,0.75905,104,4.8,0.06107
+Honduras,Dystopia Residual,Latin America and Caribbean,2015,1.84408,105,4.788,0.05648
+Honduras,Family,Latin America and Caribbean,2015,0.95348,105,4.788,0.05648
+Honduras,Freedom,Latin America and Caribbean,2015,0.40148,105,4.788,0.05648
+Honduras,GDP Capita,Latin America and Caribbean,2015,0.59532,105,4.788,0.05648
+Honduras,Generosity,Latin America and Caribbean,2015,0.23027,105,4.788,0.05648
+Honduras,Gov Corruption,Latin America and Caribbean,2015,0.06825,105,4.788,0.05648
+Honduras,Life Expectancy,Latin America and Caribbean,2015,0.6951,105,4.788,0.05648
+Tajikistan,Dystopia Residual,Central and Eastern Europe,2015,2.11399,106,4.786,0.03198
+Tajikistan,Family,Central and Eastern Europe,2015,0.85563,106,4.786,0.03198
+Tajikistan,Freedom,Central and Eastern Europe,2015,0.47216,106,4.786,0.03198
+Tajikistan,GDP Capita,Central and Eastern Europe,2015,0.39047,106,4.786,0.03198
+Tajikistan,Generosity,Central and Eastern Europe,2015,0.22974,106,4.786,0.03198
+Tajikistan,Gov Corruption,Central and Eastern Europe,2015,0.15072,106,4.786,0.03198
+Tajikistan,Life Expectancy,Central and Eastern Europe,2015,0.57379,106,4.786,0.03198
+Tunisia,Dystopia Residual,Middle East and Northern Africa,2015,2.12466,107,4.739,0.03589
+Tunisia,Family,Middle East and Northern Africa,2015,0.60429,107,4.739,0.03589
+Tunisia,Freedom,Middle East and Northern Africa,2015,0.26268,107,4.739,0.03589
+Tunisia,GDP Capita,Middle East and Northern Africa,2015,0.88113,107,4.739,0.03589
+Tunisia,Generosity,Middle East and Northern Africa,2015,0.06431,107,4.739,0.03589
+Tunisia,Gov Corruption,Middle East and Northern Africa,2015,0.06358,107,4.739,0.03589
+Tunisia,Life Expectancy,Middle East and Northern Africa,2015,0.73793,107,4.739,0.03589
+Palestinian Territories,Dystopia Residual,Middle East and Northern Africa,2015,2.04384,108,4.715,0.04394
+Palestinian Territories,Family,Middle East and Northern Africa,2015,0.92558,108,4.715,0.04394
+Palestinian Territories,Freedom,Middle East and Northern Africa,2015,0.24499,108,4.715,0.04394
+Palestinian Territories,GDP Capita,Middle East and Northern Africa,2015,0.59867,108,4.715,0.04394
+Palestinian Territories,Generosity,Middle East and Northern Africa,2015,0.11251,108,4.715,0.04394
+Palestinian Territories,Gov Corruption,Middle East and Northern Africa,2015,0.12905,108,4.715,0.04394
+Palestinian Territories,Life Expectancy,Middle East and Northern Africa,2015,0.66015,108,4.715,0.04394
+Bangladesh,Dystopia Residual,Southern Asia,2015,2.51767,109,4.694,0.03077
+Bangladesh,Family,Southern Asia,2015,0.43106,109,4.694,0.03077
+Bangladesh,Freedom,Southern Asia,2015,0.4082,109,4.694,0.03077
+Bangladesh,GDP Capita,Southern Asia,2015,0.39753,109,4.694,0.03077
+Bangladesh,Generosity,Southern Asia,2015,0.21222,109,4.694,0.03077
+Bangladesh,Gov Corruption,Southern Asia,2015,0.12569,109,4.694,0.03077
+Bangladesh,Life Expectancy,Southern Asia,2015,0.60164,109,4.694,0.03077
+Iran,Dystopia Residual,Middle East and Northern Africa,2015,1.6944,110,4.686,0.04449
+Iran,Family,Middle East and Northern Africa,2015,0.54447,110,4.686,0.04449
+Iran,Freedom,Middle East and Northern Africa,2015,0.30033,110,4.686,0.04449
+Iran,GDP Capita,Middle East and Northern Africa,2015,1.0088,110,4.686,0.04449
+Iran,Generosity,Middle East and Northern Africa,2015,0.38086,110,4.686,0.04449
+Iran,Gov Corruption,Middle East and Northern Africa,2015,0.05863,110,4.686,0.04449
+Iran,Life Expectancy,Middle East and Northern Africa,2015,0.69805,110,4.686,0.04449
+Ukraine,Dystopia Residual,Central and Eastern Europe,2015,1.5714,111,4.681,0.04412
+Ukraine,Family,Central and Eastern Europe,2015,1.20278,111,4.681,0.04412
+Ukraine,Freedom,Central and Eastern Europe,2015,0.25123,111,4.681,0.04412
+Ukraine,GDP Capita,Central and Eastern Europe,2015,0.79907,111,4.681,0.04412
+Ukraine,Generosity,Central and Eastern Europe,2015,0.15275,111,4.681,0.04412
+Ukraine,Gov Corruption,Central and Eastern Europe,2015,0.02961,111,4.681,0.04412
+Ukraine,Life Expectancy,Central and Eastern Europe,2015,0.6739,111,4.681,0.04412
+Iraq,Dystopia Residual,Middle East and Northern Africa,2015,1.95335,112,4.677,0.05232
+Iraq,Family,Middle East and Northern Africa,2015,0.81889,112,4.677,0.05232
+Iraq,Freedom,Middle East and Northern Africa,2015,0,112,4.677,0.05232
+Iraq,GDP Capita,Middle East and Northern Africa,2015,0.98549,112,4.677,0.05232
+Iraq,Generosity,Middle East and Northern Africa,2015,0.17922,112,4.677,0.05232
+Iraq,Gov Corruption,Middle East and Northern Africa,2015,0.13788,112,4.677,0.05232
+Iraq,Life Expectancy,Middle East and Northern Africa,2015,0.60237,112,4.677,0.05232
+South Africa,Dystopia Residual,Sub-Saharan Africa,2015,1.71956,113,4.642,0.04585
+South Africa,Family,Sub-Saharan Africa,2015,1.18468,113,4.642,0.04585
+South Africa,Freedom,Sub-Saharan Africa,2015,0.33207,113,4.642,0.04585
+South Africa,GDP Capita,Sub-Saharan Africa,2015,0.92049,113,4.642,0.04585
+South Africa,Generosity,Sub-Saharan Africa,2015,0.11973,113,4.642,0.04585
+South Africa,Gov Corruption,Sub-Saharan Africa,2015,0.08884,113,4.642,0.04585
+South Africa,Life Expectancy,Sub-Saharan Africa,2015,0.27688,113,4.642,0.04585
+Ghana,Dystopia Residual,Sub-Saharan Africa,2015,2.30919,114,4.633,0.04742
+Ghana,Family,Sub-Saharan Africa,2015,0.67954,114,4.633,0.04742
+Ghana,Freedom,Sub-Saharan Africa,2015,0.42342,114,4.633,0.04742
+Ghana,GDP Capita,Sub-Saharan Africa,2015,0.54558,114,4.633,0.04742
+Ghana,Generosity,Sub-Saharan Africa,2015,0.23087,114,4.633,0.04742
+Ghana,Gov Corruption,Sub-Saharan Africa,2015,0.04355,114,4.633,0.04742
+Ghana,Life Expectancy,Sub-Saharan Africa,2015,0.40132,114,4.633,0.04742
+Zimbabwe,Dystopia Residual,Sub-Saharan Africa,2015,2.44191,115,4.61,0.0429
+Zimbabwe,Family,Sub-Saharan Africa,2015,1.03276,115,4.61,0.0429
+Zimbabwe,Freedom,Sub-Saharan Africa,2015,0.25861,115,4.61,0.0429
+Zimbabwe,GDP Capita,Sub-Saharan Africa,2015,0.271,115,4.61,0.0429
+Zimbabwe,Generosity,Sub-Saharan Africa,2015,0.18987,115,4.61,0.0429
+Zimbabwe,Gov Corruption,Sub-Saharan Africa,2015,0.08079,115,4.61,0.0429
+Zimbabwe,Life Expectancy,Sub-Saharan Africa,2015,0.33475,115,4.61,0.0429
+Liberia,Dystopia Residual,Sub-Saharan Africa,2015,2.77729,116,4.571,0.11068
+Liberia,Family,Sub-Saharan Africa,2015,0.78968,116,4.571,0.11068
+Liberia,Freedom,Sub-Saharan Africa,2015,0.28531,116,4.571,0.11068
+Liberia,GDP Capita,Sub-Saharan Africa,2015,0.0712,116,4.571,0.11068
+Liberia,Generosity,Sub-Saharan Africa,2015,0.24362,116,4.571,0.11068
+Liberia,Gov Corruption,Sub-Saharan Africa,2015,0.06232,116,4.571,0.11068
+Liberia,Life Expectancy,Sub-Saharan Africa,2015,0.34201,116,4.571,0.11068
+India,Dystopia Residual,Southern Asia,2015,2.27513,117,4.565,0.02043
+India,Family,Southern Asia,2015,0.38174,117,4.565,0.02043
+India,Freedom,Southern Asia,2015,0.39786,117,4.565,0.02043
+India,GDP Capita,Southern Asia,2015,0.64499,117,4.565,0.02043
+India,Generosity,Southern Asia,2015,0.26475,117,4.565,0.02043
+India,Gov Corruption,Southern Asia,2015,0.08492,117,4.565,0.02043
+India,Life Expectancy,Southern Asia,2015,0.51529,117,4.565,0.02043
+Sudan,Dystopia Residual,Sub-Saharan Africa,2015,2.20857,118,4.55,0.0674
+Sudan,Family,Sub-Saharan Africa,2015,1.01404,118,4.55,0.0674
+Sudan,Freedom,Sub-Saharan Africa,2015,0.10081,118,4.55,0.0674
+Sudan,GDP Capita,Sub-Saharan Africa,2015,0.52107,118,4.55,0.0674
+Sudan,Generosity,Sub-Saharan Africa,2015,0.19062,118,4.55,0.0674
+Sudan,Gov Corruption,Sub-Saharan Africa,2015,0.1466,118,4.55,0.0674
+Sudan,Life Expectancy,Sub-Saharan Africa,2015,0.36878,118,4.55,0.0674
+Haiti,Dystopia Residual,Latin America and Caribbean,2015,2.24173,119,4.518,0.07331
+Haiti,Family,Latin America and Caribbean,2015,0.74302,119,4.518,0.07331
+Haiti,Freedom,Latin America and Caribbean,2015,0.24425,119,4.518,0.07331
+Haiti,GDP Capita,Latin America and Caribbean,2015,0.26673,119,4.518,0.07331
+Haiti,Generosity,Latin America and Caribbean,2015,0.46187,119,4.518,0.07331
+Haiti,Gov Corruption,Latin America and Caribbean,2015,0.17175,119,4.518,0.07331
+Haiti,Life Expectancy,Latin America and Caribbean,2015,0.38847,119,4.518,0.07331
+Democratic Republic of the Congo,Dystopia Residual,Sub-Saharan Africa,2015,2.86712,120,4.517,0.0368
+Democratic Republic of the Congo,Family,Sub-Saharan Africa,2015,1.0012,120,4.517,0.0368
+Democratic Republic of the Congo,Freedom,Sub-Saharan Africa,2015,0.22605,120,4.517,0.0368
+Democratic Republic of the Congo,GDP Capita,Sub-Saharan Africa,2015,0,120,4.517,0.0368
+Democratic Republic of the Congo,Generosity,Sub-Saharan Africa,2015,0.24834,120,4.517,0.0368
+Democratic Republic of the Congo,Gov Corruption,Sub-Saharan Africa,2015,0.07625,120,4.517,0.0368
+Democratic Republic of the Congo,Life Expectancy,Sub-Saharan Africa,2015,0.09806,120,4.517,0.0368
+Nepal,Dystopia Residual,Southern Asia,2015,1.95637,121,4.514,0.03607
+Nepal,Family,Southern Asia,2015,0.86449,121,4.514,0.03607
+Nepal,Freedom,Southern Asia,2015,0.38282,121,4.514,0.03607
+Nepal,GDP Capita,Southern Asia,2015,0.35997,121,4.514,0.03607
+Nepal,Generosity,Southern Asia,2015,0.32296,121,4.514,0.03607
+Nepal,Gov Corruption,Southern Asia,2015,0.05907,121,4.514,0.03607
+Nepal,Life Expectancy,Southern Asia,2015,0.56874,121,4.514,0.03607
+Ethiopia,Dystopia Residual,Sub-Saharan Africa,2015,2.44876,122,4.512,0.0378
+Ethiopia,Family,Sub-Saharan Africa,2015,0.60406,122,4.512,0.0378
+Ethiopia,Freedom,Sub-Saharan Africa,2015,0.4345,122,4.512,0.0378
+Ethiopia,GDP Capita,Sub-Saharan Africa,2015,0.19073,122,4.512,0.0378
+Ethiopia,Generosity,Sub-Saharan Africa,2015,0.24325,122,4.512,0.0378
+Ethiopia,Gov Corruption,Sub-Saharan Africa,2015,0.15048,122,4.512,0.0378
+Ethiopia,Life Expectancy,Sub-Saharan Africa,2015,0.44055,122,4.512,0.0378
+Sierra Leone,Dystopia Residual,Sub-Saharan Africa,2015,2.51009,123,4.507,0.07068
+Sierra Leone,Family,Sub-Saharan Africa,2015,0.95571,123,4.507,0.07068
+Sierra Leone,Freedom,Sub-Saharan Africa,2015,0.4084,123,4.507,0.07068
+Sierra Leone,GDP Capita,Sub-Saharan Africa,2015,0.33024,123,4.507,0.07068
+Sierra Leone,Generosity,Sub-Saharan Africa,2015,0.21488,123,4.507,0.07068
+Sierra Leone,Gov Corruption,Sub-Saharan Africa,2015,0.08786,123,4.507,0.07068
+Sierra Leone,Life Expectancy,Sub-Saharan Africa,2015,0,123,4.507,0.07068
+Mauritania,Dystopia Residual,Sub-Saharan Africa,2015,2.11773,124,4.436,0.03947
+Mauritania,Family,Sub-Saharan Africa,2015,0.86908,124,4.436,0.03947
+Mauritania,Freedom,Sub-Saharan Africa,2015,0.24232,124,4.436,0.03947
+Mauritania,GDP Capita,Sub-Saharan Africa,2015,0.45407,124,4.436,0.03947
+Mauritania,Generosity,Sub-Saharan Africa,2015,0.219,124,4.436,0.03947
+Mauritania,Gov Corruption,Sub-Saharan Africa,2015,0.17461,124,4.436,0.03947
+Mauritania,Life Expectancy,Sub-Saharan Africa,2015,0.35874,124,4.436,0.03947
+Kenya,Dystopia Residual,Sub-Saharan Africa,2015,1.78555,125,4.419,0.04734
+Kenya,Family,Sub-Saharan Africa,2015,0.99876,125,4.419,0.04734
+Kenya,Freedom,Sub-Saharan Africa,2015,0.42215,125,4.419,0.04734
+Kenya,GDP Capita,Sub-Saharan Africa,2015,0.36471,125,4.419,0.04734
+Kenya,Generosity,Sub-Saharan Africa,2015,0.37542,125,4.419,0.04734
+Kenya,Gov Corruption,Sub-Saharan Africa,2015,0.05839,125,4.419,0.04734
+Kenya,Life Expectancy,Sub-Saharan Africa,2015,0.41435,125,4.419,0.04734
+Djibouti,Dystopia Residual,Sub-Saharan Africa,2015,2.05125,126,4.369,0.08096
+Djibouti,Family,Sub-Saharan Africa,2015,0.59207,126,4.369,0.08096
+Djibouti,Freedom,Sub-Saharan Africa,2015,0.46074,126,4.369,0.08096
+Djibouti,GDP Capita,Sub-Saharan Africa,2015,0.44025,126,4.369,0.08096
+Djibouti,Generosity,Sub-Saharan Africa,2015,0.18093,126,4.369,0.08096
+Djibouti,Gov Corruption,Sub-Saharan Africa,2015,0.28105,126,4.369,0.08096
+Djibouti,Life Expectancy,Sub-Saharan Africa,2015,0.36291,126,4.369,0.08096
+Armenia,Dystopia Residual,Central and Eastern Europe,2015,1.75873,127,4.35,0.04763
+Armenia,Family,Central and Eastern Europe,2015,0.77711,127,4.35,0.04763
+Armenia,Freedom,Central and Eastern Europe,2015,0.19847,127,4.35,0.04763
+Armenia,GDP Capita,Central and Eastern Europe,2015,0.76821,127,4.35,0.04763
+Armenia,Generosity,Central and Eastern Europe,2015,0.07855,127,4.35,0.04763
+Armenia,Gov Corruption,Central and Eastern Europe,2015,0.039,127,4.35,0.04763
+Armenia,Life Expectancy,Central and Eastern Europe,2015,0.7299,127,4.35,0.04763
+Botswana,Dystopia Residual,Sub-Saharan Africa,2015,1.46181,128,4.332,0.04934
+Botswana,Family,Sub-Saharan Africa,2015,1.10464,128,4.332,0.04934
+Botswana,Freedom,Sub-Saharan Africa,2015,0.49495,128,4.332,0.04934
+Botswana,GDP Capita,Sub-Saharan Africa,2015,0.99355,128,4.332,0.04934
+Botswana,Generosity,Sub-Saharan Africa,2015,0.10461,128,4.332,0.04934
+Botswana,Gov Corruption,Sub-Saharan Africa,2015,0.12474,128,4.332,0.04934
+Botswana,Life Expectancy,Sub-Saharan Africa,2015,0.04776,128,4.332,0.04934
+Myanmar,Dystopia Residual,Southeastern Asia,2015,1.41805,129,4.307,0.04351
+Myanmar,Family,Southeastern Asia,2015,0.70905,129,4.307,0.04351
+Myanmar,Freedom,Southeastern Asia,2015,0.44017,129,4.307,0.04351
+Myanmar,GDP Capita,Southeastern Asia,2015,0.27108,129,4.307,0.04351
+Myanmar,Generosity,Southeastern Asia,2015,0.79588,129,4.307,0.04351
+Myanmar,Gov Corruption,Southeastern Asia,2015,0.19034,129,4.307,0.04351
+Myanmar,Life Expectancy,Southeastern Asia,2015,0.48246,129,4.307,0.04351
+Georgia,Dystopia Residual,Central and Eastern Europe,2015,1.59541,130,4.297,0.04221
+Georgia,Family,Central and Eastern Europe,2015,0.38562,130,4.297,0.04221
+Georgia,Freedom,Central and Eastern Europe,2015,0.40577,130,4.297,0.04221
+Georgia,GDP Capita,Central and Eastern Europe,2015,0.7419,130,4.297,0.04221
+Georgia,Generosity,Central and Eastern Europe,2015,0.05547,130,4.297,0.04221
+Georgia,Gov Corruption,Central and Eastern Europe,2015,0.38331,130,4.297,0.04221
+Georgia,Life Expectancy,Central and Eastern Europe,2015,0.72926,130,4.297,0.04221
+Malawi,Dystopia Residual,Sub-Saharan Africa,2015,2.80791,131,4.292,0.0613
+Malawi,Family,Sub-Saharan Africa,2015,0.41134,131,4.292,0.0613
+Malawi,Freedom,Sub-Saharan Africa,2015,0.43054,131,4.292,0.0613
+Malawi,GDP Capita,Sub-Saharan Africa,2015,0.01604,131,4.292,0.0613
+Malawi,Generosity,Sub-Saharan Africa,2015,0.33128,131,4.292,0.0613
+Malawi,Gov Corruption,Sub-Saharan Africa,2015,0.06977,131,4.292,0.0613
+Malawi,Life Expectancy,Sub-Saharan Africa,2015,0.22562,131,4.292,0.0613
+Sri Lanka,Dystopia Residual,Southern Asia,2015,0.67108,132,4.271,0.03751
+Sri Lanka,Family,Southern Asia,2015,1.01905,132,4.271,0.03751
+Sri Lanka,Freedom,Southern Asia,2015,0.53726,132,4.271,0.03751
+Sri Lanka,GDP Capita,Southern Asia,2015,0.83524,132,4.271,0.03751
+Sri Lanka,Generosity,Southern Asia,2015,0.40828,132,4.271,0.03751
+Sri Lanka,Gov Corruption,Southern Asia,2015,0.09179,132,4.271,0.03751
+Sri Lanka,Life Expectancy,Southern Asia,2015,0.70806,132,4.271,0.03751
+Cameroon,Dystopia Residual,Sub-Saharan Africa,2015,1.95071,133,4.252,0.04678
+Cameroon,Family,Sub-Saharan Africa,2015,0.88767,133,4.252,0.04678
+Cameroon,Freedom,Sub-Saharan Africa,2015,0.49309,133,4.252,0.04678
+Cameroon,GDP Capita,Sub-Saharan Africa,2015,0.4225,133,4.252,0.04678
+Cameroon,Generosity,Sub-Saharan Africa,2015,0.20618,133,4.252,0.04678
+Cameroon,Gov Corruption,Sub-Saharan Africa,2015,0.05786,133,4.252,0.04678
+Cameroon,Life Expectancy,Sub-Saharan Africa,2015,0.23402,133,4.252,0.04678
+Bulgaria,Dystopia Residual,Central and Eastern Europe,2015,0.89991,134,4.218,0.04828
+Bulgaria,Family,Central and Eastern Europe,2015,1.10614,134,4.218,0.04828
+Bulgaria,Freedom,Central and Eastern Europe,2015,0.30587,134,4.218,0.04828
+Bulgaria,GDP Capita,Central and Eastern Europe,2015,1.01216,134,4.218,0.04828
+Bulgaria,Generosity,Central and Eastern Europe,2015,0.11921,134,4.218,0.04828
+Bulgaria,Gov Corruption,Central and Eastern Europe,2015,0.00872,134,4.218,0.04828
+Bulgaria,Life Expectancy,Central and Eastern Europe,2015,0.76649,134,4.218,0.04828
+Egypt,Dystopia Residual,Middle East and Northern Africa,2015,1.59927,135,4.194,0.0326
+Egypt,Family,Middle East and Northern Africa,2015,0.747,135,4.194,0.0326
+Egypt,Freedom,Middle East and Northern Africa,2015,0.17288,135,4.194,0.0326
+Egypt,GDP Capita,Middle East and Northern Africa,2015,0.8818,135,4.194,0.0326
+Egypt,Generosity,Middle East and Northern Africa,2015,0.11291,135,4.194,0.0326
+Egypt,Gov Corruption,Middle East and Northern Africa,2015,0.06324,135,4.194,0.0326
+Egypt,Life Expectancy,Middle East and Northern Africa,2015,0.61712,135,4.194,0.0326
+Yemen,Dystopia Residual,Middle East and Northern Africa,2015,1.92313,136,4.077,0.04367
+Yemen,Family,Middle East and Northern Africa,2015,0.68093,136,4.077,0.04367
+Yemen,Freedom,Middle East and Northern Africa,2015,0.35571,136,4.077,0.04367
+Yemen,GDP Capita,Middle East and Northern Africa,2015,0.54649,136,4.077,0.04367
+Yemen,Generosity,Middle East and Northern Africa,2015,0.09131,136,4.077,0.04367
+Yemen,Gov Corruption,Middle East and Northern Africa,2015,0.07854,136,4.077,0.04367
+Yemen,Life Expectancy,Middle East and Northern Africa,2015,0.40064,136,4.077,0.04367
+Angola,Dystopia Residual,Sub-Saharan Africa,2015,1.94939,137,4.033,0.04758
+Angola,Family,Sub-Saharan Africa,2015,0.8604,137,4.033,0.04758
+Angola,Freedom,Sub-Saharan Africa,2015,0.10384,137,4.033,0.04758
+Angola,GDP Capita,Sub-Saharan Africa,2015,0.75778,137,4.033,0.04758
+Angola,Generosity,Sub-Saharan Africa,2015,0.12344,137,4.033,0.04758
+Angola,Gov Corruption,Sub-Saharan Africa,2015,0.07122,137,4.033,0.04758
+Angola,Life Expectancy,Sub-Saharan Africa,2015,0.16683,137,4.033,0.04758
+Mali,Dystopia Residual,Sub-Saharan Africa,2015,1.79293,138,3.995,0.05602
+Mali,Family,Sub-Saharan Africa,2015,1.03526,138,3.995,0.05602
+Mali,Freedom,Sub-Saharan Africa,2015,0.38857,138,3.995,0.05602
+Mali,GDP Capita,Sub-Saharan Africa,2015,0.26074,138,3.995,0.05602
+Mali,Generosity,Sub-Saharan Africa,2015,0.18798,138,3.995,0.05602
+Mali,Gov Corruption,Sub-Saharan Africa,2015,0.12352,138,3.995,0.05602
+Mali,Life Expectancy,Sub-Saharan Africa,2015,0.20583,138,3.995,0.05602
+Congo (Brazzaville),Dystopia Residual,Sub-Saharan Africa,2015,1.68135,139,3.989,0.06682
+Congo (Brazzaville),Family,Sub-Saharan Africa,2015,0.6629,139,3.989,0.06682
+Congo (Brazzaville),Freedom,Sub-Saharan Africa,2015,0.41466,139,3.989,0.06682
+Congo (Brazzaville),GDP Capita,Sub-Saharan Africa,2015,0.67866,139,3.989,0.06682
+Congo (Brazzaville),Generosity,Sub-Saharan Africa,2015,0.12388,139,3.989,0.06682
+Congo (Brazzaville),Gov Corruption,Sub-Saharan Africa,2015,0.11686,139,3.989,0.06682
+Congo (Brazzaville),Life Expectancy,Sub-Saharan Africa,2015,0.31051,139,3.989,0.06682
+somaliland,Dystopia Residual,Sub-Saharan Africa,2015,1.95812,140,3.956,0.04797
+somaliland,Family,Sub-Saharan Africa,2015,0.79273,140,3.956,0.04797
+somaliland,Freedom,Sub-Saharan Africa,2015,0.22917,140,3.956,0.04797
+somaliland,GDP Capita,Sub-Saharan Africa,2015,0.23906,140,3.956,0.04797
+somaliland,Generosity,Sub-Saharan Africa,2015,0.17441,140,3.956,0.04797
+somaliland,Gov Corruption,Sub-Saharan Africa,2015,0.199,140,3.956,0.04797
+somaliland,Life Expectancy,Sub-Saharan Africa,2015,0.36315,140,3.956,0.04797
+Uganda,Dystopia Residual,Sub-Saharan Africa,2015,1.42766,141,3.931,0.04317
+Uganda,Family,Sub-Saharan Africa,2015,1.13299,141,3.931,0.04317
+Uganda,Freedom,Sub-Saharan Africa,2015,0.45727,141,3.931,0.04317
+Uganda,GDP Capita,Sub-Saharan Africa,2015,0.21102,141,3.931,0.04317
+Uganda,Generosity,Sub-Saharan Africa,2015,0.29066,141,3.931,0.04317
+Uganda,Gov Corruption,Sub-Saharan Africa,2015,0.07267,141,3.931,0.04317
+Uganda,Life Expectancy,Sub-Saharan Africa,2015,0.33861,141,3.931,0.04317
+Senegal,Dystopia Residual,Sub-Saharan Africa,2015,1.44395,142,3.904,0.03608
+Senegal,Family,Sub-Saharan Africa,2015,0.97619,142,3.904,0.03608
+Senegal,Freedom,Sub-Saharan Africa,2015,0.36772,142,3.904,0.03608
+Senegal,GDP Capita,Sub-Saharan Africa,2015,0.36498,142,3.904,0.03608
+Senegal,Generosity,Sub-Saharan Africa,2015,0.20843,142,3.904,0.03608
+Senegal,Gov Corruption,Sub-Saharan Africa,2015,0.10713,142,3.904,0.03608
+Senegal,Life Expectancy,Sub-Saharan Africa,2015,0.4354,142,3.904,0.03608
+Gabon,Dystopia Residual,Sub-Saharan Africa,2015,0.99895,143,3.896,0.04547
+Gabon,Family,Sub-Saharan Africa,2015,0.90528,143,3.896,0.04547
+Gabon,Freedom,Sub-Saharan Africa,2015,0.31914,143,3.896,0.04547
+Gabon,GDP Capita,Sub-Saharan Africa,2015,1.06024,143,3.896,0.04547
+Gabon,Generosity,Sub-Saharan Africa,2015,0.06822,143,3.896,0.04547
+Gabon,Gov Corruption,Sub-Saharan Africa,2015,0.11091,143,3.896,0.04547
+Gabon,Life Expectancy,Sub-Saharan Africa,2015,0.43372,143,3.896,0.04547
+Niger,Dystopia Residual,Sub-Saharan Africa,2015,1.87877,144,3.845,0.03602
+Niger,Family,Sub-Saharan Africa,2015,0.77265,144,3.845,0.03602
+Niger,Freedom,Sub-Saharan Africa,2015,0.47692,144,3.845,0.03602
+Niger,GDP Capita,Sub-Saharan Africa,2015,0.0694,144,3.845,0.03602
+Niger,Generosity,Sub-Saharan Africa,2015,0.19387,144,3.845,0.03602
+Niger,Gov Corruption,Sub-Saharan Africa,2015,0.15639,144,3.845,0.03602
+Niger,Life Expectancy,Sub-Saharan Africa,2015,0.29707,144,3.845,0.03602
+Cambodia,Dystopia Residual,Southeastern Asia,2015,0.98195,145,3.819,0.05069
+Cambodia,Family,Southeastern Asia,2015,0.62736,145,3.819,0.05069
+Cambodia,Freedom,Southeastern Asia,2015,0.66246,145,3.819,0.05069
+Cambodia,GDP Capita,Southeastern Asia,2015,0.46038,145,3.819,0.05069
+Cambodia,Generosity,Southeastern Asia,2015,0.40359,145,3.819,0.05069
+Cambodia,Gov Corruption,Southeastern Asia,2015,0.07247,145,3.819,0.05069
+Cambodia,Life Expectancy,Southeastern Asia,2015,0.61114,145,3.819,0.05069
+Tanzania,Dystopia Residual,Sub-Saharan Africa,2015,1.38079,146,3.781,0.05061
+Tanzania,Family,Sub-Saharan Africa,2015,1.00268,146,3.781,0.05061
+Tanzania,Freedom,Sub-Saharan Africa,2015,0.32878,146,3.781,0.05061
+Tanzania,GDP Capita,Sub-Saharan Africa,2015,0.2852,146,3.781,0.05061
+Tanzania,Generosity,Sub-Saharan Africa,2015,0.34377,146,3.781,0.05061
+Tanzania,Gov Corruption,Sub-Saharan Africa,2015,0.05747,146,3.781,0.05061
+Tanzania,Life Expectancy,Sub-Saharan Africa,2015,0.38215,146,3.781,0.05061
+Madagascar,Dystopia Residual,Sub-Saharan Africa,2015,1.851,147,3.681,0.03633
+Madagascar,Family,Sub-Saharan Africa,2015,0.66801,147,3.681,0.03633
+Madagascar,Freedom,Sub-Saharan Africa,2015,0.19184,147,3.681,0.03633
+Madagascar,GDP Capita,Sub-Saharan Africa,2015,0.20824,147,3.681,0.03633
+Madagascar,Generosity,Sub-Saharan Africa,2015,0.21333,147,3.681,0.03633
+Madagascar,Gov Corruption,Sub-Saharan Africa,2015,0.08124,147,3.681,0.03633
+Madagascar,Life Expectancy,Sub-Saharan Africa,2015,0.46721,147,3.681,0.03633
+Central African Republic,Dystopia Residual,Sub-Saharan Africa,2015,2.7223,148,3.678,0.06112
+Central African Republic,Family,Sub-Saharan Africa,2015,0,148,3.678,0.06112
+Central African Republic,Freedom,Sub-Saharan Africa,2015,0.48879,148,3.678,0.06112
+Central African Republic,GDP Capita,Sub-Saharan Africa,2015,0.0785,148,3.678,0.06112
+Central African Republic,Generosity,Sub-Saharan Africa,2015,0.23835,148,3.678,0.06112
+Central African Republic,Gov Corruption,Sub-Saharan Africa,2015,0.08289,148,3.678,0.06112
+Central African Republic,Life Expectancy,Sub-Saharan Africa,2015,0.06699,148,3.678,0.06112
+Chad,Dystopia Residual,Sub-Saharan Africa,2015,1.94296,149,3.667,0.0383
+Chad,Family,Sub-Saharan Africa,2015,0.76062,149,3.667,0.0383
+Chad,Freedom,Sub-Saharan Africa,2015,0.23501,149,3.667,0.0383
+Chad,GDP Capita,Sub-Saharan Africa,2015,0.34193,149,3.667,0.0383
+Chad,Generosity,Sub-Saharan Africa,2015,0.18386,149,3.667,0.0383
+Chad,Gov Corruption,Sub-Saharan Africa,2015,0.05269,149,3.667,0.0383
+Chad,Life Expectancy,Sub-Saharan Africa,2015,0.1501,149,3.667,0.0383
+Guinea,Dystopia Residual,Sub-Saharan Africa,2015,1.99172,150,3.656,0.0359
+Guinea,Family,Sub-Saharan Africa,2015,0.46475,150,3.656,0.0359
+Guinea,Freedom,Sub-Saharan Africa,2015,0.37725,150,3.656,0.0359
+Guinea,GDP Capita,Sub-Saharan Africa,2015,0.17417,150,3.656,0.0359
+Guinea,Generosity,Sub-Saharan Africa,2015,0.28657,150,3.656,0.0359
+Guinea,Gov Corruption,Sub-Saharan Africa,2015,0.12139,150,3.656,0.0359
+Guinea,Life Expectancy,Sub-Saharan Africa,2015,0.24009,150,3.656,0.0359
+Ivory Coast,Dystopia Residual,Sub-Saharan Africa,2015,1.41723,151,3.655,0.05141
+Ivory Coast,Family,Sub-Saharan Africa,2015,0.77115,151,3.655,0.05141
+Ivory Coast,Freedom,Sub-Saharan Africa,2015,0.46866,151,3.655,0.05141
+Ivory Coast,GDP Capita,Sub-Saharan Africa,2015,0.46534,151,3.655,0.05141
+Ivory Coast,Generosity,Sub-Saharan Africa,2015,0.20165,151,3.655,0.05141
+Ivory Coast,Gov Corruption,Sub-Saharan Africa,2015,0.17922,151,3.655,0.05141
+Ivory Coast,Life Expectancy,Sub-Saharan Africa,2015,0.15185,151,3.655,0.05141
+Burkina Faso,Dystopia Residual,Sub-Saharan Africa,2015,1.46494,152,3.587,0.04324
+Burkina Faso,Family,Sub-Saharan Africa,2015,0.85188,152,3.587,0.04324
+Burkina Faso,Freedom,Sub-Saharan Africa,2015,0.39493,152,3.587,0.04324
+Burkina Faso,GDP Capita,Sub-Saharan Africa,2015,0.25812,152,3.587,0.04324
+Burkina Faso,Generosity,Sub-Saharan Africa,2015,0.21747,152,3.587,0.04324
+Burkina Faso,Gov Corruption,Sub-Saharan Africa,2015,0.12832,152,3.587,0.04324
+Burkina Faso,Life Expectancy,Sub-Saharan Africa,2015,0.27125,152,3.587,0.04324
+Afghanistan,Dystopia Residual,Southern Asia,2015,1.9521,153,3.575,0.03084
+Afghanistan,Family,Southern Asia,2015,0.30285,153,3.575,0.03084
+Afghanistan,Freedom,Southern Asia,2015,0.23414,153,3.575,0.03084
+Afghanistan,GDP Capita,Southern Asia,2015,0.31982,153,3.575,0.03084
+Afghanistan,Generosity,Southern Asia,2015,0.3651,153,3.575,0.03084
+Afghanistan,Gov Corruption,Southern Asia,2015,0.09719,153,3.575,0.03084
+Afghanistan,Life Expectancy,Southern Asia,2015,0.30335,153,3.575,0.03084
+Rwanda,Dystopia Residual,Sub-Saharan Africa,2015,0.67042,154,3.465,0.03464
+Rwanda,Family,Sub-Saharan Africa,2015,0.7737,154,3.465,0.03464
+Rwanda,Freedom,Sub-Saharan Africa,2015,0.59201,154,3.465,0.03464
+Rwanda,GDP Capita,Sub-Saharan Africa,2015,0.22208,154,3.465,0.03464
+Rwanda,Generosity,Sub-Saharan Africa,2015,0.22628,154,3.465,0.03464
+Rwanda,Gov Corruption,Sub-Saharan Africa,2015,0.55191,154,3.465,0.03464
+Rwanda,Life Expectancy,Sub-Saharan Africa,2015,0.42864,154,3.465,0.03464
+Benin,Dystopia Residual,Sub-Saharan Africa,2015,1.63328,155,3.34,0.03656
+Benin,Family,Sub-Saharan Africa,2015,0.35386,155,3.34,0.03656
+Benin,Freedom,Sub-Saharan Africa,2015,0.4845,155,3.34,0.03656
+Benin,GDP Capita,Sub-Saharan Africa,2015,0.28665,155,3.34,0.03656
+Benin,Generosity,Sub-Saharan Africa,2015,0.1826,155,3.34,0.03656
+Benin,Gov Corruption,Sub-Saharan Africa,2015,0.0801,155,3.34,0.03656
+Benin,Life Expectancy,Sub-Saharan Africa,2015,0.3191,155,3.34,0.03656
+Syria,Dystopia Residual,Middle East and Northern Africa,2015,0.32858,156,3.006,0.05015
+Syria,Family,Middle East and Northern Africa,2015,0.47489,156,3.006,0.05015
+Syria,Freedom,Middle East and Northern Africa,2015,0.15684,156,3.006,0.05015
+Syria,GDP Capita,Middle East and Northern Africa,2015,0.6632,156,3.006,0.05015
+Syria,Generosity,Middle East and Northern Africa,2015,0.47179,156,3.006,0.05015
+Syria,Gov Corruption,Middle East and Northern Africa,2015,0.18906,156,3.006,0.05015
+Syria,Life Expectancy,Middle East and Northern Africa,2015,0.72193,156,3.006,0.05015
+Burundi,Dystopia Residual,Sub-Saharan Africa,2015,1.83302,157,2.905,0.08658
+Burundi,Family,Sub-Saharan Africa,2015,0.41587,157,2.905,0.08658
+Burundi,Freedom,Sub-Saharan Africa,2015,0.1185,157,2.905,0.08658
+Burundi,GDP Capita,Sub-Saharan Africa,2015,0.0153,157,2.905,0.08658
+Burundi,Generosity,Sub-Saharan Africa,2015,0.19727,157,2.905,0.08658
+Burundi,Gov Corruption,Sub-Saharan Africa,2015,0.10062,157,2.905,0.08658
+Burundi,Life Expectancy,Sub-Saharan Africa,2015,0.22396,157,2.905,0.08658
+Togo,Dystopia Residual,Sub-Saharan Africa,2015,1.56726,158,2.839,0.06727
+Togo,Family,Sub-Saharan Africa,2015,0.13995,158,2.839,0.06727
+Togo,Freedom,Sub-Saharan Africa,2015,0.36453,158,2.839,0.06727
+Togo,GDP Capita,Sub-Saharan Africa,2015,0.20868,158,2.839,0.06727
+Togo,Generosity,Sub-Saharan Africa,2015,0.16681,158,2.839,0.06727
+Togo,Gov Corruption,Sub-Saharan Africa,2015,0.10731,158,2.839,0.06727
+Togo,Life Expectancy,Sub-Saharan Africa,2015,0.28443,158,2.839,0.06727
