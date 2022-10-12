@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 700,
+  "width": 650,
   "height": 300,
   "title": "Top 15 Happiest Countries Around The World (2015-2022).",
   "params": [
