@@ -2,9 +2,11 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "repeat": {
       "row": ["Score"],
-      "column": ["Generosity","Government_trust","Freedom","Health (Life Expectancy)","Family","Economy","Score"]
+      "column": ["Generosity","Government_trust","Freedom"]
     },
     "spec": {
+      "height": 200,
+      "width": 150,
       "data": {"url": "https://raw.githubusercontent.com/Sami-Hussein/Assignment-2/main/world-happiness-report-2015-2022-cleaned.csv"},
       "mark": {
           "type": "point",
