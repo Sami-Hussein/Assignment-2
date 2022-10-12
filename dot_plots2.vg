@@ -45,7 +45,7 @@
           "condition": {
             "param": "brush",
             "field": "continent",
-            "type": "nominal"
+            "type": "nominal"            
           },
           "value": "grey"
         }
