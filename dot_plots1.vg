@@ -1,56 +1,59 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "repeat": {
-      "row": ["Score"],
-      "column": ["Generosity","Government_trust","Freedom"]
-    },
-    "spec": {
-      "height": 200,
-      "width": 150,
-      "data": {"url": "https://raw.githubusercontent.com/Sami-Hussein/Assignment-2/main/world-happiness-report-2015-2022-cleaned.csv"},
-      "mark": {
-          "type": "point",
-          "filled": true
-        },
-      "params": [
-        {
-          "name": "brush",
-          "select": {
-            "type": "interval",
-            "resolve": "union",
-            "on": "[mousedown[event.shiftKey], window:mouseup] > window:mousemove!",
-            "translate": "[mousedown[event.shiftKey], window:mouseup] > window:mousemove!",
-            "zoom": "wheel![event.shiftKey]"
-          }
-        },
-        {
-          "name": "grid",
-          "select": {
-            "type": "interval",
-            "resolve": "global",
-            "translate": "[mousedown[!event.shiftKey], window:mouseup] > window:mousemove!",
-            "zoom": "wheel![!event.shiftKey]"
-          },
-          "bind": "scales"
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "repeat": {
+    "row": ["Score"],
+    "column": ["Generosity","Government_trust","Freedom"]
+  },
+  "spec": {
+    "height": 200,
+    "width": 200,
+    "data": {"url": "https://raw.githubusercontent.com/Sami-Hussein/Assignment-2/main/world-happiness-report-2015-2022-cleaned.csv"},
+    "mark": {
+        "type": "point",
+        "filled": true
+      },
+    "params": [
+      {
+        "name": "brush",
+        "select": {
+          "type": "interval",
+          "resolve": "union",
+          "on": "[mousedown[event.shiftKey], window:mouseup] > window:mousemove!",
+          "translate": "[mousedown[event.shiftKey], window:mouseup] > window:mousemove!",
+          "zoom": "wheel![event.shiftKey]"
         }
+      },
+      {
+        "name": "grid",
+        "select": {
+          "type": "interval",
+          "resolve": "global",
+          "translate": "[mousedown[!event.shiftKey], window:mouseup] > window:mousemove!",
+          "zoom": "wheel![!event.shiftKey]"
+        },
+        "bind": "scales"
+      }
+    ],
+    "encoding": {
+      "x": {"field": {"repeat": "column"}, "type": "quantitative"},
+      "tooltip": [
+        {"field": {"repeat": "row"}, "type": "quantitative"},
+        {"field": {"repeat": "column"}, "type": "quantitative"}
       ],
-      "encoding": {
-        "x": {"field": {"repeat": "column"}, "type": "quantitative"},
-        "y": {
-          "field": {"repeat": "row"},
-          "type": "quantitative",
-          "axis": {"minExtent": 30}
+      "y": {
+        "field": {"repeat": "row"},
+        "type": "quantitative",
+        "axis": {"minExtent": 30}
+      },
+      "color": {
+        "condition": {
+          "param": "brush",
+          "field": "continent",
+          "type": "nominal",
+          "legend": null
         },
-        "color": {
-          "condition": {
-            "param": "brush",
-            "field": "continent",
-            "type": "nominal",
-            "legend": null
-          },
-          "value": "grey"
-        }
+        "value": "grey"
       }
     }
   }
-  
+}

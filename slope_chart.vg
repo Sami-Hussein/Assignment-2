@@ -5,6 +5,10 @@
   "mark": "line",
   "width": {"step": 50},
   "encoding": {
+          "tooltip": [
+        {"field": "Score_Average", "type": "quantitative","title":"Happiness Score Average"},
+        {"field": "Year", "type": "quantitative"}
+      ],
     "x": {
       "field": "Year",
       "type": "ordinal",

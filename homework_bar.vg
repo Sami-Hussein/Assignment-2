@@ -61,7 +61,7 @@
       "type": "quantitative",
       "title": "population"
     },
-    "color": {"value": "teal"},
+    "color": {"field":"continent"},
         "tooltip": [
               {"field": "Country", "type": "nominal"},
               {"field":"Score", "title":"Happiness Score","type":"quantitative", "format": ".2f"},
@@ -83,7 +83,7 @@
      "type": "quantitative",
      "title": "population"
    },
-   "color": {"value": "teal"},
+   "color": {"field":"continent"},
    "size": {"value": 50},
    "tooltip": [
     {"field": "Country", "type": "nominal"},
