@@ -25,11 +25,7 @@
     "y": {"field": "Rank", "type": "quantitative", "scale": {"domain": [0, 11]}, "sort":"descending"},
     "color": {
       "field": "Country", "type": "nominal"
-      // ,
-      // "scale": {
-      //   "domain": ["Germany", "Mexico", "South Korea", "Sweden"],
-      //   "range": ["black", "#127153", "#C91A3C", "#0C71AB"]
-      // }
+
     }
   }
 }
