@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "data": {"url": "https://raw.githubusercontent.com/Sami-Hussein/Assignment-2/main/slope_data.csv"},
+  "data": {"url": "https://raw.githubusercontent.com/Sami-Hussein/Assignment-2/main/data/slope_data.csv"},
   "height": 350,
   "width": 200,
   "background": null,

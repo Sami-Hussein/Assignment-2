@@ -45,7 +45,7 @@
       
     ],
   "data": { 
-    "url": "https://raw.githubusercontent.com/Sami-Hussein/Assignment-2/main/world-happiness-report-2015-2022-cleaned.csv"
+    "url": "https://raw.githubusercontent.com/Sami-Hussein/Assignment-2/main/data/world-happiness-report-2015-2022-cleaned.csv"
           },
   "layer":[{
     "transform":[

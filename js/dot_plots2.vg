@@ -9,7 +9,7 @@
   "spec": {
     "height": 270,
     "width": 270,
-    "data": {"url": "https://raw.githubusercontent.com/Sami-Hussein/Assignment-2/main/world-happiness-report-2015-2022-cleaned.csv"},
+    "data": {"url": "https://raw.githubusercontent.com/Sami-Hussein/Assignment-2/main/data/world-happiness-report-2015-2022-cleaned.csv"},
     "mark": {
         "type": "point",
         "filled": true
