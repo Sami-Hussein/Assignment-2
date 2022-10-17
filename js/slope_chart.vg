@@ -13,7 +13,7 @@
       },
       "encoding": {
               "tooltip": [
-            {"field": "Score_Average", "type": "quantitative","title":"Happiness Score Average"},
+            {"field": "Score_Average", "type": "quantitative","title":"Happiness Score Average","format": ".2f"},
             {"field": "Year", "type": "quantitative"}
           ],
         "x": {

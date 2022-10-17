@@ -30,18 +30,13 @@ h3 {
 
 }
 
-h3 span{
-    color: #0b8987;
-}
+
 
 p1 {
     font-family: 'Roboto', sans-serif;
 }
 
-p span{
-    color: #0b8987;
-    font-weight: bold;
-}
+
 
 body {
     background-color:rgb(250, 251, 214);

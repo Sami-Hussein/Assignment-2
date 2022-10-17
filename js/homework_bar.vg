@@ -80,6 +80,7 @@
         "tooltip": [
               {"field": "Country", "type": "nominal"},
               {"field":"Score", "title":"Happiness Score","type":"quantitative", "format": ".2f"},
+              {"field": "continent", "type": "nominal", "title":"Continent"},
               {"field": "Year", "type": "quantitative"}
             ]
 
@@ -109,6 +110,7 @@
    "tooltip": [
     {"field": "Country", "type": "nominal"},
     {"field":"Score", "title":"Happiness Score", "type":"quantitative","format": ".2f"},
+    {"field": "continent", "type": "nominal", "title":"Continent"},
     {"field": "Year", "type": "quantitative"}
   ]
 

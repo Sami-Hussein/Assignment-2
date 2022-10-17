@@ -4,7 +4,7 @@
   "background": null,
   "repeat": {
     "row": ["Score"],
-    "column": ["Generosity","Government_trust","Freedom"]
+    "column": ["Generosity","Government Trust","Freedom"]
   },
   "spec": {
 
@@ -49,10 +49,12 @@
     "encoding": {
       "x": {"field": {"repeat": "column"}, "type": "quantitative"},
       "tooltip": [
-        {"field": {"repeat": "row"}, "type": "quantitative","title":"Happiness Score"},
-        {"field": {"repeat": "column"}, "type": "quantitative"},
         {"field": "Country", "type": "nominal"},
-        {"field": "Year", "type": "ordinal"}
+        {"field": "continent", "type": "nominal", "title":"Continent"},
+        {"field": "Year", "type": "ordinal"},
+        {"field": {"repeat": "row"}, "type": "quantitative","title":"Happiness Score","format": ".2f"},
+        {"field": {"repeat": "column"}, "type": "quantitative","format": ".2f"}
+
       ],
       "y": {
         "field": {"repeat": "row"},
