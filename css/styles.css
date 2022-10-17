@@ -5,12 +5,18 @@
 h1 {
     /* font-family: 'Bitter', serif; */
     font-weight: 1000;
+    text-align:center;
+    font-size: 300%;
+    
 }   
 
 h2 {
     font-family: 'Roboto', sans-serif;
     font-size: x-large;
-    padding-top: 30px;
+    text-align:center;
+    background-color:rgb(255,255,204);
+
+
 }
 
 h2 span{
@@ -20,6 +26,8 @@ h2 span{
 h3 {
     font-family: 'Roboto', sans-serif;
     font-size: larger;
+    text-align:center;
+
 }
 
 h3 span{
@@ -36,12 +44,12 @@ p span{
 }
 
 body {
-    background-color: lightgray;
+    background-color:rgb(250, 251, 214);
 }
 
 .page {
-    width: 800px;
-    background-color: white;
+    width: 1000px;
+    background-color:rgb(255, 255, 228);
     margin: auto;
     padding: 80px;
     padding-top: 80px;
@@ -49,6 +57,13 @@ body {
 
 .vis-container {
     width: 100%;
+    padding-bottom: 80px;
+
+}
+.vis-container1 {
+    width: 100%;
+    padding-bottom: 80px;
+    padding-right: 500px;
 }
 
 .description h2,
@@ -80,4 +95,40 @@ h1 {
     font-size: 14px;
     font-family: 'Roboto', sans-serif;
 }
+.africa {
+    color: #54a24b;
+    font-weight: bold;
+
+
+ }
+
+ .asia {
+    color: #f58518;
+    font-weight: bold;
+
+ }
+
+ .northA {
+    color: #e45756;
+    font-weight: bold;
+
+ }
+
+ .southA {
+    color: #4c78a8;
+    font-weight: bold;
+
+ }
+
+ .europe {
+    color: #940be3;
+    font-weight: bold;
+
+ }
+
+ .oceania {
+    color: #000000;
+    font-weight: bold;
+
+ }
 

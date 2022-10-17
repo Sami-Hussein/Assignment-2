@@ -1,0 +1,76 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {"url": "https://raw.githubusercontent.com/Sami-Hussein/Assignment-2/main/slope_data.csv"},
+  "height": 350,
+  "width": 200,
+  "background": null,
+  "view": {"fill": null, "stroke":"transparent"},
+  "layer": [
+    {
+      "mark": {
+        "type": "line",
+        "point": true
+      },
+      "encoding": {
+              "tooltip": [
+            {"field": "Score_Average", "type": "quantitative","title":"Happiness Score Average"},
+            {"field": "Year", "type": "quantitative"}
+          ],
+        "x": {
+          "field": "Year",
+          "type": "ordinal",
+          "scale": {"padding": 0.5}
+        },
+        "y": {
+          "field": "Score_Average",
+          "type": "quantitative",
+          "title":"Average Happiness Score",
+          "scale": {"domain": [4, 7.5]}
+        },
+        "color": {
+        "field":"Continent",
+        "type": "nominal",
+        "legend":null,
+        "scale": {"domain": ["North America", "South America", "Europe", "Asia","Africa","Oceania"], "range": ["#e45756", "#4c78a8","#940be3","#f58518","#54a24b","#000000"]
+                }
+              }
+    }
+  },
+  {
+    "transform": [{"filter": "datum.Year == 2022"}],
+        "mark": {
+      "type": "text",
+      "align": "left",
+      "baseline": "middle",
+      "dx": 3
+    },
+      "encoding": {
+              "tooltip": [
+            {"field": "Score_Average", "type": "quantitative","title":"Happiness Score Average"},
+            {"field": "Year", "type": "quantitative"}
+          ],
+        "x": {
+          "field": "Year",
+          "type": "ordinal",
+          "scale": {"padding": 0.5}
+        },
+        "y": {
+          "field": "Score_Average",
+          "type": "quantitative",
+          "title":"Average Happiness Score",
+          "scale": {"domain": [4, 7.5]}
+        },
+        "text": {"field": "Continent", "type": "nominal"},
+        
+        "color": {
+        "field":"Continent",
+        "type": "nominal",
+        "legend":null,
+        "scale": {"domain": ["North America", "South America", "Europe", "Asia","Africa","Oceania"], "range": ["#e30b0b", "#240be3","#940be3","#FFA500","#059607","#000000"]
+                }
+              },
+              "size": {"value": 15}
+    }
+  }
+  ]
+}

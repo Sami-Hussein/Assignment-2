@@ -1,8 +1,9 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 650,
-  "height": 300,
-  "title": "Top 15 Happiest Countries Around The World (2015-2022).",
+  "width": 550,
+  "height": 400,
+  "background": null,
+  "view": {"fill": null},
   "params": [
       {
         "name": "year",
@@ -47,21 +48,35 @@
     "url": "https://raw.githubusercontent.com/Sami-Hussein/Assignment-2/main/world-happiness-report-2015-2022-cleaned.csv"
           },
   "layer":[{
-  "transform": [{"filter": "datum.Year == year && datum.Rank <= 15"},
-  {"filter": "Continent == null || datum.continent == Continent"}],
-  "mark": {"type": "bar", "height": 1},
+    "transform":[
+    {"filter": "datum.Year == year"},
+    {"filter": "Continent == null || datum.continent == Continent"},
+    {"window": [{"op": "count", "as": "count"}]},
+    {"filter": "datum.count <= 10"}],
+  "mark": {"type": "bar", "height": 2},
   "encoding": {
     "y": {
       "field": "Country",
       "type": "nominal",
-      "sort": "-x"
+      "sort": "Rank"
     },
     "x": {
       "field": "Score",
-      "type": "quantitative",
-      "title": "population"
+      "type": "quantitative"
     },
-    "color": {"field":"continent"},
+    "color": {
+      "field":"continent",
+      "legend":{
+        "offset": 50,
+          "orient": "none",
+          "direction": "horizontal",
+          "legendX": 120,
+          "legendY": 450,
+          "title":"Continents"
+              },
+      "scale": {"domain": ["North America", "South America", "Europe", "Asia","Africa","Oceania"], "range": ["#e45756", "#4c78a8","#940be3","#f58518","#54a24b","#000000"]
+    
+              }},
         "tooltip": [
               {"field": "Country", "type": "nominal"},
               {"field":"Score", "title":"Happiness Score","type":"quantitative", "format": ".2f"},
@@ -70,21 +85,27 @@
 
    }
   },  {
-    "transform": [{"filter": "datum.Year == year && datum.Rank <= 15"},
- {"filter": "Continent == null || datum.continent == Continent"}],
-   "mark": {"type": "point","filled": true},"encoding": {
+    "transform":[
+      {"filter": "datum.Year == year"},
+      {"filter": "Continent == null || datum.continent == Continent"},
+      {"window": [{"op": "count", "as": "count"}]},
+      {"filter": "datum.count <= 10"}],
+
+    "mark": {"type": "image", "width": 30, "height": 30},
+   "encoding": {
      "y": {
      "field": "Country",
      "type": "nominal",
-     "sort": "-x"
+     "sort": "Rank"
+
    },
+   "url": {"field": "Image", "type": "nominal"},
    "x": {
      "field": "Score",
      "type": "quantitative",
-     "title": "population"
+     "title": "Happiness Score"
    },
-   "color": {"field":"continent"},
-   "size": {"value": 50},
+   "size": {"value": 70},
    "tooltip": [
     {"field": "Country", "type": "nominal"},
     {"field":"Score", "title":"Happiness Score", "type":"quantitative","format": ".2f"},
@@ -93,13 +114,17 @@
 
   }},
   {
-     "transform": [{"filter": "datum.Year == year && datum.Rank <= 15"},
-  {"filter": "Continent == null || datum.continent == Continent"}],
+    "transform":[
+      {"filter": "datum.Year == year"},
+      {"filter": "Continent == null || datum.continent == Continent"},
+      {"window": [{"op": "count", "as": "count"}]},
+      {"filter": "datum.count <= 10"}],
     "mark": {
       "type": "text",
       "align": "left",
       "baseline": "middle",
-      "dx": 3
+      "dx": 10,
+      "xOffset":10
     },"encoding": {
       "y": {
       "field": "Country",
@@ -108,10 +133,9 @@
     },
     "x": {
       "field": "Score",
-      "type": "quantitative",
-      "title": "population"
-    },
-    "size": {"value": 10},
+      "type": "quantitative"
+      },
+    "size": {"value": 15},
       "text": {"field": "Score", "type": "quantitative", "format": ".2f"}
     }},
   {
@@ -127,7 +151,7 @@
         "color": {"value": "red"},
         "size": {"value": 3},
         "tooltip": [
-              {"aggregate":"mean", "field": "Score", "format":".2f","type": "quantitative"},
+              {"aggregate":"mean", "field": "Score", "format":".2f","type": "quantitative", "title":"Mean of Happiness Score"},
               {"field": "Year", "type": "quantitative"}
             ]
     }
@@ -137,4 +161,3 @@
   ]
   
 }
-

@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Data viz 2</title>
+  <meta charset="UTF-8">
+
+  <title>World Happiness</title>
+  <link rel="icon" type="image/x-icon" href="smile.png">
 <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
 <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
 <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
@@ -24,6 +27,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.1/chart.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.6.1/d3.min.js"></script>
 
+
 </head>
 <body>
 
@@ -32,41 +36,29 @@
    <!-- pure grid group -->
     <div class="pure-g">
       <div class="pure-u-1-1">
-        <h1>World Happiness (2015-2022)</h1>
-        <p1>An analysis of the Happiness levels around the world and the various factors that affect it, 
-          gathered from several different data sources and collected from citizens from each country.</p1>
+        <h1>&#128512;World Happiness (2015-2022)&#128512;</h1>
+        <h3>By Sami Hussein Hamid Saeed</h3>
+        <p>An analysis of the Happiness levels around the world and the various factors that affect it, 
+          gathered from several different data sources and collected from citizens from each country.
+          The Happiness Index measures life satisfaction, the feeling of happiness, and other happiness domains such as:
+          health, finanical status, government trust, freedom, generosity, and family.
+         
+          </p>
       </div>
     </div>
   <!-- end pure grid group -->
-
     <!-- pure grid group -->
     <div class="pure-g">
       <div class="pure-u-1-1">
         <div class="description description-left">
-          <h2>World's top 15 most happiest countries</h2>
-          <p> From the lollipop chart bellow we can compare the happiness levels in the top 15 most happiest countries and compare them with the
-            average happiness level, using the filters we can not only vary the year but also limit our data to only display the countries from the selected
-            continent
-          </p>
-        </div>
-      </div>
-    </div>
-    <!-- end pure grid group -->
-
-    <div class="pure-g">
-        <div class="pure-u-1-1">
-          <div id="viz1" class="vis-container"></div>
-        </div>
-    </div>
-
-    
-    <!-- pure grid group -->
-    <div class="pure-g">
-      <div class="pure-u-1-1">
-        <div class="description description-left">
-          <h2>Happiness world map (2015-2022)</h2>
+          <h2>Happiness World Map</h2>
           <p>Using the following map you can view the change in happiness in the entire worldthroughout the years 2015 to 2022,
-            using the filters you can also limit the data to show the top 10 or 100 happiest countries for any year.
+            using the filters you can also limit the data to show the top 10 or 100 happiest countries for any year. From the map 
+            bellow we can analyse that on average, the happiest countries in the world tend to be in <span class = "europe">Europe</span> and <span class = "oceania">Oceania</span>, this could 
+            be attributed to the significantly advanced quality of life, government trust, economical stability, and high health standards 
+            in these continents. Furthermore, <span class = "northA">North America</span> and <span class = "southA">South America</span> both have a consistently good happiness score throughout the years 2015-2022, although
+            over the years, the happiness levels in <span class = "southA">South America</span> have somewhat detoriorated. Finally, the happiness levels in <span class = "asia">Asia</span> and especially <span class = "africa">Africa</span> are one of
+            lowest levels in the entire world, regardless of the year.
           </p>
         </div>
       </div>
@@ -80,47 +72,193 @@
         </div>
       
     </div>
+
+ 
+
+
+    <div class="pure-g">
+      <div class="pure-u-1-1">
+        <div class="description description-left">
+          <h2>Happiest Countries Of The World</h2>
+          <p>
+            From the country rankings bellow we can observe that the happiest countries in the world are mostly from <span class = "oceania">Oceania</span> and <span class = "europe">Europe</span> (mainly Scandanavia). Another
+            interesting observation is that for the years 2015 to 2021, no countries from <span class = "asia">Asia</span>, <span class = "africa">Africa</span>, or <span class = "southA">South America</span> made it into the leaderboard. But in 2022, Israel
+            has made it into the leaderboard, representing <span class = "asia">Asia</span>. Finally, until the year 2019 Canada was the only country from <span class = "northA">North America</span> to make it into the top 10 happiest
+            countries in the world.
+          </p>
+        </div>
+      </div>
+    </div>
     <!-- end pure grid group -->
-        <!-- pure grid group -->
-        <div class="pure-g">
-            <div class="pure-u-1-3">
-              <div class="description description-left">
-                <h2>Happiness over the years</h2>
-                <p>The following two visualisations display the overall trends and rankings in happiness for each and every available country
-                    and continent .</p>
-              </div>
-            </div>
-            <div class="pure-u-1-3">
-              <div id="viz3" class="vis-container"></div>
-            </div>
-            <div class="pure-u-1-3" style="width: 31.5%;">
-              <div id="viz4" class="vis-container" style="margin-left: 15px;"></div>
-            </div>
+
+    <!-- pure grid group -->
+    <div class="pure-g">
+        <div class="pure-u-1-1">
+          <div id="viz4"class="vis-container"></div>
+        </div>
       
-          </div>
-          <!-- end pure grid group -->
+    </div>
+
+    <!-- pure grid group -->
+    <div class="pure-g">
+
+      <div class="pure-u-1-3">
+        <div class="description description-right">
+          <h2>Happiest Countries In Each Continent</h2>
+          <p>As shown in the lollipop chart to the right, we can observe the change in happiness levels for each specific continent throughout
+            the years 2015 to 2022. <br><br>Firstly, in <span class = "northA">North America</span>, Canada is consistently the most happiest country in the continent and although the United States
+            is the most famous country in <span class = "northA">North America</span> it pales in comparision to Canada and Costa Rica (2015-2021).
+            Even though <span class = "europe">Europe</span> has one of the highest happiness averages, it is actually mainly because of the presence of Scandanavian countries.
+            In <span class = "asia">Asia</span>, Israel is always the happiest country in the continent, the rest of the countries are mostly middle eastern countries.<br><br>
+            Moreover, the data available for <span class = "oceania">Oceania</span> is only for Australia and New Zealand, therefore <span class = "oceania">Oceania</span> has a consistently high happiness level.
+            Contrary to popular belief <span class = "southA">South America</span> actually has a surprisingly high happiness average.
+            Finally, <span class = "africa">Africa</span> has the lowest levels of happiness amongst all of the continents.
+          </p>
+        </div>
+      </div>
+
+        
+      <div class="pure-u-2-3">
+        <div id="viz1" class="vis-container" style="padding-left: 50px;"></div>
+      </div>
+
+
+    </div>
+    <!-- end pure grid group -->
+    <!-- <div class="pure-g">
+      <div class="pure-u-1-2">
+        <div class="description description-left" style="width: 60%; padding-left: 30px;">
+          <h2>Two Columns Layout</h2>
+          <p>The first column contains text and the second column contains a visualisation.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+            dolore magna aliqua. Massa sapien faucibus et molestie ac feugiat sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+            dolore magna aliqua. Massa sapien faucibus et molestie ac feugiat sed. </p>
+        </div>
+      </div>
+      <div class="pure-u-1-2">
+        <div id="viz1" class="vis-container"  style="width: 200%; padding-right: 130px;"></div>
+      </div>
+    </div>   -->
+
+
+    <div class="pure-g">
+      <div class="pure-u-1-2" style="width: 33.3333%;margin-left: auto;">
+        <div id="viz3" class="vis-container"></div>
+      </div>
+      <div class="pure-u-1-2" style="width: 620px;margin-left: auto;">
+        <div class="description description-left">
+          <h2>Progress Made By Each Continent</h2>
+          <p>The slope chart to the left showcases the overall progress in happiness made by each continent 
+            from the year 2015 to the year 2022 based on the happiness score index.            
+            Overall, we can observe a positive change in the happiness levels for each continent, with the 
+            exception of <span class = "southA">South America</span> and <span class = "oceania">Oceania</span>, despite the overall positive trends worldwide<br><br>
+
+            <span class = "oceania">Oceania</span>'s happiness score has went down from <span class = "oceania">7.29</span> in the year 2015 to <span class = "oceania">7.18</span> in the year 2022.
+            In addition, <span class = "southA">South America</span>'s happiness score has also decreased from <span class = "southA">6.35</span> in the year 2015 to
+            a shocking <span class = "southA">5.79</span> in the year 2022.<br><br>
+            
+            <span class = "northA">North America</span> and <span class = "asia">Asia</span> have shown slight improvements in their respective happiness. However <span class = "europe">Europe</span>
+            and <span class = "africa">Africa</span> have both thrived and are showing more promising signs of improvement in their respective
+            happiness levels in 2022
+
+          </p>
+        </div>
+      </div>
+    </div>  
+
+
 
     <!-- pure grid group -->
     <div class="pure-g">
         <div class="pure-u-1-1">
           <div class="description description-left">
             <h2>Key Happiness Factors</h2>
-            <p>What is the correlation between the happiness of a country and the other factors and how strongly does each factor affect the happiness of a country</p>
+            <p>There are a lot of factors that affect the happiness levels of a country, such as: economy, freedom, health, generosity, family, and trust in government.
+              In order to further analyse the relationships between these factors and happiness. In general <span class = "europe">Europe</span>,  <span class = "oceania">Oceania</span>
+              , and <span class = "southA">South America</span> tend to have a high happiness score, whereas <span class = "northA">North America</span>, <span class = "asia">Asia</span>
+              , and <span class = "africa">Africa</span> have lower levels of happiness in comparision.
+            </p>
+            <!-- <p>What is the correlation between the happiness of a country and the other factors and how strongly does each factor affect the happiness of a country</p> -->
           </div>
         </div>
       </div>
       <!-- end pure grid group -->
+  <!-- pure grid group -->
+  <div class="pure-g">
+    <div class="pure-u-1-3">
+      <div class="description description-left" >
+        <h2>Generosity</h2>
+        <p>The extent to which Generosity contributed to the calculation of the Happiness Score. Generosity will 
+          increase the psychological well being of everyone involved while also having an impact on material 
+          wellbeing, which are two of the domains of Gross National Happiness. If we want there to be change 
+          in our countries happiness, it starts by making other people happy.</p>
+      </div>
+    </div>
+    <div class="pure-u-1-3">
+      <div class="description description-center" >
+        <h2>Government</h2>
+        <p>The extent to which Perception of Corruption contributes to Happiness Score. Happier countries tend to
+          have a high level of trust in their respective governments, this is mainly because these governments are providing for their
+          citizens and are hence proving to their people that they are worthy of their trust. The people of a country 
+          must be able to rely on and trust their leaders and governments in order to lead a stress free way of life.
 
-<!-- pure grid group -->
-<div class="pure-g">
- <div class="pure-u-1-1">
-   <div id="viz5"  class="vis-container"></div>
- </div>
+        </p>
+      </div>
+    </div>
+    <div class="pure-u-1-3">
+      <div class="description description-right">
+        <h2>Freedom</h2>
+        <p>The extent to which Perception of Freedom in a country contributes to Happiness Score.Freedom is important 
+          for our happiness because it allows us to make choices that make us happy and gives us the opportunity to make
+           mistakes and learn from them. So our happiness depends on how we feel about the choices we've made and continue
+           to make in life.
+        </p>
+      </div>
+    </div>
 
+  </div>
+  <!-- end pure grid group -->
+        <!-- pure grid group -->
+        <div class="pure-g">
+        <div class="pure-u-1-1" style="margin-left: -40px;">
+          <div id="viz5"  class="vis-container"></div>
+        </div>
+
+        <div class="pure-g">
+          <div class="pure-u-1-3">
+            <div class="description description-left"  >
+              <h2>Health</h2>
+              <p>The extent to which health and life expectancy contributes to Happiness Score.The countries that score
+                 high on the quality and accessibility of their often freely available healthcare generally all score 
+                 high on the happiness index. Most of the happiest countries in the world providy easily available healthcare
+                and ackowledge healthcare as a basic human right, rather than a commerical industry.</p>
+            </div>
+          </div>
+          <div class="pure-u-1-3">
+            <div class="description description-center"  >
+              <h2>Family</h2>
+              <p>The extent to which family contributes to Happiness Score. Strong, happy families create a sense of
+                 well being within the family and in each family member. Wellbeing includes a person's physical, mental,
+                  emotional and social health. Strong, happy families encourage and support each other to be optimistic,
+                   hopeful and to strive together to achieve individually and as a family.</p>
+            </div>
+          </div>
+          <div class="pure-u-1-3" >
+            <div class="description description-right">
+              <h2>Economy</h2>
+              <p>The extent to which economy contributes to Happiness Score. The economy of a country plays a significantly important
+                role in the happiness of the country, this is mainly due to the ability of wealthy countries to facilitate their citizens
+                and satisfy their needs. People in wealthier countries with high-quality institutions tend to be happier than people in 
+                countries with less wealth and poorer institutions.
+              </p>
+            </div>
+          </div>
+      
+        </div>
  <!-- pure grid group -->
 <div class="pure-g">
-    <div class="pure-u-1-1">
-      <div id="viz6"  class="vis-container"></div>
+    <div class="pure-u-1-1" style="margin-left: -40px;">
+      <div id="viz6" class="vis-container1"></div>
     </div>
 
 </div>
@@ -128,18 +266,18 @@
     <div class="pure-g">
       <div class="pure-u-1-1">
         <div class="description description-left">
-          <h2>Happiness in Malaysia</h2>
-          <p>Comparing Malaysia's key happiness factors and their respective magnitudes with respect to Asia's average score for each factor shows That
-            in each and every category other than government trust, Malaysia scores higher than the average displayed by the Asian countries in general
+          <h2>Happiness In Malaysia</h2>
+          <p>Comparing Malaysia's key happiness factors and their respective magnitudes with respect to <span class = "asia">Asia</span>'s average score for each factor shows That
+            in each and every category other than government trust, Malaysia scores higher than the average displayed by the <span class = "asia">Asian</span> countries in general.
           </p>
         </div>
       </div>
     </div>
     <!-- end pure grid group -->    
     <div class="pure-g">
-        <div class="pure-u-1-1">
+        <div class="pure-u-1-1"  style="width:600px; padding-left: 175px;">
           <div>
-            <canvas id="myChart" style="width:200%;height:200%"></canvas></div>
+            <canvas id="myChart"></canvas></div>
         </div>
       
     </div>
@@ -148,12 +286,18 @@
   </div> <!-- end page -->
    
 <script type="text/javascript">
-  var viz1  =   "https://raw.githubusercontent.com/Sami-Hussein/Assignment-2/main/homework_bar.vg";
-  var viz2  =   "https://raw.githubusercontent.com/Sami-Hussein/Assignment-2/main/homework_map.vg";
-  var viz3  =   "https://raw.githubusercontent.com/Sami-Hussein/Assignment-2/main/slope_chart.vg";
-  var viz4  =   "https://raw.githubusercontent.com/Sami-Hussein/Assignment-2/main/bumpchart.vg"
-  var viz5  =   "https://raw.githubusercontent.com/Sami-Hussein/Assignment-2/main/dot_plots1.vg"
-  var viz6  =   "https://raw.githubusercontent.com/Sami-Hussein/Assignment-2/main/dot_plots2.vg"
+  // var viz1  =   "https://raw.githubusercontent.com/Sami-Hussein/Assignment-2/main/homework_bar.vg";
+  // var viz2  =   "https://raw.githubusercontent.com/Sami-Hussein/Assignment-2/main/homework_map.vg";
+  // var viz3  =   "https://raw.githubusercontent.com/Sami-Hussein/Assignment-2/main/slope_chart.vg";
+  // var viz4  =   "https://raw.githubusercontent.com/Sami-Hussein/Assignment-2/main/bumpchart.vg"
+  // var viz5  =   "https://raw.githubusercontent.com/Sami-Hussein/Assignment-2/main/dot_plots1.vg"
+  // var viz6  =   "https://raw.githubusercontent.com/Sami-Hussein/Assignment-2/main/dot_plots2.vg"
+  var viz1  =   "./homework_bar.vg";
+  var viz2  =   "./homework_map.vg";
+  var viz3  =   "./slope_chart.vg";
+  var viz4  =   "./bumpchart.vg";
+  var viz5  =   "./dot_plots1.vg";
+  var viz6  =   "./dot_plots2.vg";
 
 
   vegaEmbed('#viz1', viz1, {"actions": false}).then(function(result) {
@@ -182,11 +326,15 @@
 
   const ctx = document.getElementById('myChart').getContext('2d');
 d3.csv("https://raw.githubusercontent.com/Sami-Hussein/Assignment-2/main/all_pivoted.csv").then(makeChart);
+//Chart.defaults.global.defaultFontColor = "#000000";
+
 function makeChart(rawData) {
     malaysia = []
     for(let i = 0; i < rawData.length;i++){
         if(rawData[i].Country.toUpperCase() == "Malaysia".toUpperCase() && rawData[i].Year == 2022){// 
             malaysia.push(rawData[i])
+            console.log(rawData[i].Score)
+            
         }
     }
     rawData = malaysia
@@ -196,7 +344,7 @@ function makeChart(rawData) {
         });
         
         const data = {
-            labels:['Economy','Family','Freedom','Generosity','Government','Health (Life Expectancy)'],
+            labels:['Economy','Family','Freedom','Generosity','Government','Health'],
             datasets: [{
                 label: 'Malaysia',
                 data: values,
@@ -210,29 +358,52 @@ function makeChart(rawData) {
                 },
                 {
     label: 'Asia Average',
-    labels:['Economy','Family','Freedom','Generosity','Government','Health (Life Expectancy)'],
+    labels:['Economy','Family','Health','Freedom','Government','Generosity'],
     data: [1.447744186,0.890348837,0.528790698,0.157767442
 ,0.15455814
 ,0.618325581
 ],
     fill: true,
-    backgroundColor: 'rgba(211, 211, 211, 0.4',
-    borderColor: 'rgb(211, 211, 211)',
-    pointBackgroundColor: 'rgb(211, 211, 211)',
-    pointBorderColor: '#fff',
-    pointHoverBackgroundColor: '#fff',
-    pointHoverBorderColor: 'rgb(211, 211, 211)'
+    backgroundColor: 'rgba(245, 133, 24, 0.1)',
+    borderColor: 'rgb(245, 133, 24)',
+    pointBackgroundColor: 'rgb(245, 133, 24)',
+    pointBorderColor: '#f58518',
+    pointHoverBackgroundColor: '##f58518',
+    pointHoverBorderColor: 'rgb(245, 133, 24)'
   }
             
             ]
         }
         const myChart = new Chart(ctx, {
             type: 'radar',
-            tooltips: {
-    backgroundColor: "#FFFFFF"
-  },
             data: data,
                 options: {
+                  responsive: true,
+                  scales: {
+      r: {
+        pointLabels: {
+          font: {
+            size: 20
+          }
+        }
+      }
+    },
+                  plugins:{
+                    tooltip:{
+
+                        yAlign:'bottom',
+                        backgroundColor:'white',
+                        callbacks:{
+                          labelTextColor:(context)=>{
+                            return '#000000'
+                          },
+                          titleColor:(context)=>{
+                            return '#000000'
+                          }
+
+                        }
+                    }
+                  },
                     elements: {
                             line: {
                                  borderWidth: 3

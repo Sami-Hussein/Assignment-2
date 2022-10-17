@@ -1,0 +1,82 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "height": 400,
+  "width": 890,
+  "background": null,
+  "view": {"fill": null, "stroke":"transparent"},
+  "data": {
+    "url": "https://raw.githubusercontent.com/Sami-Hussein/Assignment-2/main/world-happiness-report-2015-2022-cleaned.csv"
+  },
+  "transform": [{
+    "window": [{
+      "op": "rank",
+      "as": "rank"
+    }],
+    "groupby": ["Year"]
+  },
+  {
+      "filter": "datum.Rank <= 10"
+    }],
+"layer": [
+  { 
+   "mark": {"type": "line", "orient": "vertical","interpolate":"cardinal", "point": true, "tension":0.9},
+  "encoding": {
+    "tooltip": [
+      {"field": "Country","type": "nominal"},
+      {"field": "Rank", "type": "quantitative"},
+      {"field": "Year", "type": "ordinal"}
+    ],
+    "x": {"field": "Year", "type": "ordinal"},
+    "y": {"field": "Rank", "type": "quantitative", "scale": {"domain": [1, 11]}, "sort":"descending"},
+    "color": {
+      "legend": null,
+      "field": "Country", "type": "nominal","scale": { "range": ["#808080"]}
+    }  }},
+  { 
+   "mark": {"type": "image", "width": 30, "height": 30},
+  "encoding": {
+    "tooltip": [
+      {"field": "Country","type": "nominal"},
+      {"field": "Rank", "type": "quantitative"},
+      {"field": "Year", "type": "ordinal"}
+    ],
+    "url": {"field": "Image", "type": "nominal"},
+    "x": {"field": "Year", "type": "ordinal"},
+    "y": {"field": "Rank", "type": "quantitative", "scale": {"domain": [1, 11]}, "sort":"descending"}
+  }},
+  {
+    "transform":[
+      {"filter": "datum.Year == 2022"},
+      {"filter": "datum.Country == 'Finland'"}],
+    "mark": {
+      "type": "text",
+      "align": "left",
+      "baseline": "middle",
+      "dx": 10,
+      "xOffset":10
+    },"encoding": {
+      "x": {"field": "Year", "type": "ordinal"},
+      "y": {"field": "Rank", "type": "quantitative", "scale": {"domain": [1, 11]}, "sort":"descending"},
+    "size": {"value": 15},
+      "text": {"value":["Finland currently holds the ","title for the world's happiest","country"],"type": "quantitative", "format": ".2f"}
+    }},
+    {
+      "transform":[
+        {"filter": "datum.Year == 2022"},
+        {"filter": "datum.Country == 'Israel'"}],
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "middle",
+        "dx": 10,
+        "xOffset":10,
+        "yOffset":-10
+      },"encoding": {
+        "x": {"field": "Year", "type": "ordinal"},
+        "y": {"field": "Rank", "type": "quantitative", "scale": {"domain": [1, 11]}, "sort":"descending"},
+      "size": {"value": 15},
+        "text": {"value":["Israel is the first Asian ","country to make it in the ","top 10 rankings"],"type": "quantitative", "format": ".2f"}
+      }}
+  
+  ]
+}

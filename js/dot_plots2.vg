@@ -1,12 +1,14 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "view": {"fill": null, "stroke":"transparent"},
+  "background": null,
   "repeat": {
     "row": ["Score"],
-    "column": ["Generosity","Government_trust","Freedom"]
+    "column": ["Health (Life Expectancy)","Family","Economy"]
   },
   "spec": {
-    "height": 200,
-    "width": 180,
+    "height": 270,
+    "width": 270,
     "data": {"url": "https://raw.githubusercontent.com/Sami-Hussein/Assignment-2/main/world-happiness-report-2015-2022-cleaned.csv"},
     "mark": {
         "type": "point",
@@ -24,6 +26,15 @@
         }
       },
       {
+        
+        "name": "paintbrush",
+        "select": {
+          "type": "point",
+          "on": "mouseover"
+        }
+      
+    },
+      {
         "name": "grid",
         "select": {
           "type": "interval",
@@ -37,8 +48,10 @@
     "encoding": {
       "x": {"field": {"repeat": "column"}, "type": "quantitative"},
       "tooltip": [
-        {"field": {"repeat": "row"}, "type": "quantitative"},
-        {"field": {"repeat": "column"}, "type": "quantitative"}
+        {"field": {"repeat": "row"}, "type": "quantitative","title":"Happiness Score"},
+        {"field": {"repeat": "column"}, "type": "quantitative"},
+        {"field": "Country", "type": "nominal"},
+        {"field": "Year", "type": "ordinal"}
       ],
       "y": {
         "field": {"repeat": "row"},
@@ -47,10 +60,12 @@
       },
       "color": {
         "condition": {
-          "param": "brush",
-          "field": "continent",
-          "type": "nominal",
-          "legend": null
+          "legend":null,
+          "field":"continent",
+          "scale": {"domain": ["North America", "South America", "Europe", "Asia","Africa","Oceania"], "range": ["#e45756", "#4c78a8","#940be3","#f58518","#54a24b","#000000"]
+        },
+          "param": "paintbrush",
+          "type": "nominal"        
         },
         "value": "grey"
       }
