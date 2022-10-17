@@ -1,20 +1,31 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "view": {"fill": null, "stroke":"transparent"},
+  "description": "Dot plot for the happiness factors: Generoisty, Government Trust, and freedom",
+  "view": {
+    "fill": null,
+    "stroke": "transparent"
+  },
   "background": null,
   "repeat": {
-    "row": ["Score"],
-    "column": ["Generosity","Government Trust","Freedom"]
+    "row": [
+      "Score"
+    ],
+    "column": [
+      "Generosity",
+      "Government Trust",
+      "Freedom"
+    ]
   },
   "spec": {
-
     "height": 270,
     "width": 270,
-    "data": {"url": "https://raw.githubusercontent.com/Sami-Hussein/Assignment-2/main/data/world-happiness-report-2015-2022-cleaned.csv"},
+    "data": {
+      "url": "https://raw.githubusercontent.com/Sami-Hussein/Assignment-2/main/data/world-happiness-report-2015-2022-cleaned.csv"
+    },
     "mark": {
-        "type": "point",
-        "filled": true
-      },
+      "type": "point",
+      "filled": true
+    },
     "params": [
       {
         "name": "brush",
@@ -27,13 +38,11 @@
         }
       },
       {
-        
-          "name": "paintbrush",
-          "select": {
-            "type": "point",
-            "on": "mouseover"
-          }
-        
+        "name": "paintbrush",
+        "select": {
+          "type": "point",
+          "on": "mouseover"
+        }
       },
       {
         "name": "grid",
@@ -47,29 +56,75 @@
       }
     ],
     "encoding": {
-      "x": {"field": {"repeat": "column"}, "type": "quantitative"},
+      "x": {
+        "field": {
+          "repeat": "column"
+        },
+        "type": "quantitative"
+      },
       "tooltip": [
-        {"field": "Country", "type": "nominal"},
-        {"field": "continent", "type": "nominal", "title":"Continent"},
-        {"field": "Year", "type": "ordinal"},
-        {"field": {"repeat": "row"}, "type": "quantitative","title":"Happiness Score","format": ".2f"},
-        {"field": {"repeat": "column"}, "type": "quantitative","format": ".2f"}
-
+        {
+          "field": "Country",
+          "type": "nominal"
+        },
+        {
+          "field": "continent",
+          "type": "nominal",
+          "title": "Continent"
+        },
+        {
+          "field": "Year",
+          "type": "ordinal"
+        },
+        {
+          "field": {
+            "repeat": "row"
+          },
+          "type": "quantitative",
+          "title": "Happiness Score",
+          "format": ".2f"
+        },
+        {
+          "field": {
+            "repeat": "column"
+          },
+          "type": "quantitative",
+          "format": ".2f"
+        }
       ],
       "y": {
-        "field": {"repeat": "row"},
+        "field": {
+          "repeat": "row"
+        },
         "type": "quantitative",
-        "axis": {"minExtent": 30}
+        "axis": {
+          "minExtent": 30
+        }
       },
       "color": {
-        
         "condition": {
-          "legend":null,
-          "field":"continent",
-          "scale": {"domain": ["North America", "South America", "Europe", "Asia","Africa","Oceania"], "range": ["#e45756", "#4c78a8","#940be3","#f58518","#54a24b","#000000"]
-        },
+          "legend": null,
+          "field": "continent",
+          "scale": {
+            "domain": [
+              "North America",
+              "South America",
+              "Europe",
+              "Asia",
+              "Africa",
+              "Oceania"
+            ],
+            "range": [
+              "#e45756",
+              "#4c78a8",
+              "#940be3",
+              "#f58518",
+              "#54a24b",
+              "#000000"
+            ]
+          },
           "param": "paintbrush",
-          "type": "nominal"        
+          "type": "nominal"
         },
         "value": "grey"
       }

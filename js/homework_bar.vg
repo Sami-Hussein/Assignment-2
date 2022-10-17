@@ -1,26 +1,29 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Lollipop chart for the happiest 10 countries in each continent",
   "width": 550,
   "height": 400,
   "background": null,
-  "view": {"fill": null},
+  "view": {
+    "fill": null
+  },
   "params": [
-      {
-        "name": "year",
-        "value": 2015,
-        "bind": {
-          "input": "range",
-          "min": 2015,
-          "max": 2022,
-          "step": 1,
-          "name": "Select Year:"
-        }
-      },
-      {
-        "name": "Continent",
-        "bind": {
-          "input": "select",
-          "options": [
+    {
+      "name": "year",
+      "value": 2015,
+      "bind": {
+        "input": "range",
+        "min": 2015,
+        "max": 2022,
+        "step": 1,
+        "name": "Select Year:"
+      }
+    },
+    {
+      "name": "Continent",
+      "bind": {
+        "input": "select",
+        "options": [
           null,
           "North America",
           "South America",
@@ -28,8 +31,8 @@
           "Africa",
           "Asia",
           "Oceania"
-          ],
-          "labels":[
+        ],
+        "labels": [
           "Show All",
           "North America",
           "South America",
@@ -37,129 +40,250 @@
           "Africa",
           "Asia",
           "Oceania"
-          ],
-          "name": "Continent Selection: "
-          }
-
-        }
-      
-    ],
-  "data": { 
+        ],
+        "name": "Continent Selection: "
+      }
+    }
+  ],
+  "data": {
     "url": "https://raw.githubusercontent.com/Sami-Hussein/Assignment-2/main/data/world-happiness-report-2015-2022-cleaned.csv"
-          },
-  "layer":[{
-    "transform":[
-    {"filter": "datum.Year == year"},
-    {"filter": "Continent == null || datum.continent == Continent"},
-    {"window": [{"op": "count", "as": "count"}]},
-    {"filter": "datum.count <= 10"}],
-  "mark": {"type": "bar", "height": 2},
-  "encoding": {
-    "y": {
-      "field": "Country",
-      "type": "nominal",
-      "sort": "Rank"
-    },
-    "x": {
-      "field": "Score",
-      "type": "quantitative"
-    },
-    "color": {
-      "field":"continent",
-      "legend":{
-        "offset": 50,
-          "orient": "none",
-          "direction": "horizontal",
-          "legendX": 120,
-          "legendY": 450,
-          "title":"Continents"
-              },
-      "scale": {"domain": ["North America", "South America", "Europe", "Asia","Africa","Oceania"], "range": ["#e45756", "#4c78a8","#940be3","#f58518","#54a24b","#000000"]
-    
-              }},
-        "tooltip": [
-              {"field": "Country", "type": "nominal"},
-              {"field":"Score", "title":"Happiness Score","type":"quantitative", "format": ".2f"},
-              {"field": "continent", "type": "nominal", "title":"Continent"},
-              {"field": "Year", "type": "quantitative"}
-            ]
-
-   }
-  },  {
-    "transform":[
-      {"filter": "datum.Year == year"},
-      {"filter": "Continent == null || datum.continent == Continent"},
-      {"window": [{"op": "count", "as": "count"}]},
-      {"filter": "datum.count <= 10"}],
-
-    "mark": {"type": "image", "width": 30, "height": 30},
-   "encoding": {
-     "y": {
-     "field": "Country",
-     "type": "nominal",
-     "sort": "Rank"
-
-   },
-   "url": {"field": "Image", "type": "nominal"},
-   "x": {
-     "field": "Score",
-     "type": "quantitative",
-     "title": "Happiness Score"
-   },
-   "size": {"value": 70},
-   "tooltip": [
-    {"field": "Country", "type": "nominal"},
-    {"field":"Score", "title":"Happiness Score", "type":"quantitative","format": ".2f"},
-    {"field": "continent", "type": "nominal", "title":"Continent"},
-    {"field": "Year", "type": "quantitative"}
-  ]
-
-  }},
-  {
-    "transform":[
-      {"filter": "datum.Year == year"},
-      {"filter": "Continent == null || datum.continent == Continent"},
-      {"window": [{"op": "count", "as": "count"}]},
-      {"filter": "datum.count <= 10"}],
-    "mark": {
-      "type": "text",
-      "align": "left",
-      "baseline": "middle",
-      "dx": 10,
-      "xOffset":10
-    },"encoding": {
-      "y": {
-      "field": "Country",
-      "type": "nominal",
-      "sort": "-x"
-    },
-    "x": {
-      "field": "Score",
-      "type": "quantitative"
+  },
+  "layer": [
+    {
+      "transform": [
+        {
+          "filter": "datum.Year == year"
+        },
+        {
+          "filter": "Continent == null || datum.continent == Continent"
+        },
+        {
+          "window": [
+            {
+              "op": "count",
+              "as": "count"
+            }
+          ]
+        },
+        {
+          "filter": "datum.count <= 10"
+        }
+      ],
+      "mark": {
+        "type": "bar",
+        "height": 2
       },
-    "size": {"value": 15},
-      "text": {"field": "Score", "type": "quantitative", "format": ".2f"}
-    }},
-  {
-         "transform": [{"filter": "datum.Year == year"},
-  {"filter": "Continent == null || datum.continent == Continent"}],
-    "mark":"rule",
-    "encoding":{
-    "x": {
+      "encoding": {
+        "y": {
+          "field": "Country",
+          "type": "nominal",
+          "sort": "Rank"
+        },
+        "x": {
+          "field": "Score",
+          "type": "quantitative"
+        },
+        "color": {
+          "field": "continent",
+          "legend": {
+            "offset": 50,
+            "orient": "none",
+            "direction": "horizontal",
+            "legendX": 120,
+            "legendY": 450,
+            "title": "Continents"
+          },
+          "scale": {
+            "domain": [
+              "North America",
+              "South America",
+              "Europe",
+              "Asia",
+              "Africa",
+              "Oceania"
+            ],
+            "range": [
+              "#e45756",
+              "#4c78a8",
+              "#940be3",
+              "#f58518",
+              "#54a24b",
+              "#000000"
+            ]
+          }
+        },
+        "tooltip": [
+          {
+            "field": "Country",
+            "type": "nominal"
+          },
+          {
+            "field": "Score",
+            "title": "Happiness Score",
+            "type": "quantitative",
+            "format": ".2f"
+          },
+          {
+            "field": "continent",
+            "type": "nominal",
+            "title": "Continent"
+          },
+          {
+            "field": "Year",
+            "type": "quantitative"
+          }
+        ]
+      }
+    },
+    {
+      "transform": [
+        {
+          "filter": "datum.Year == year"
+        },
+        {
+          "filter": "Continent == null || datum.continent == Continent"
+        },
+        {
+          "window": [
+            {
+              "op": "count",
+              "as": "count"
+            }
+          ]
+        },
+        {
+          "filter": "datum.count <= 10"
+        }
+      ],
+      "mark": {
+        "type": "image",
+        "width": 30,
+        "height": 30
+      },
+      "encoding": {
+        "y": {
+          "field": "Country",
+          "type": "nominal",
+          "sort": "Rank"
+        },
+        "url": {
+          "field": "Image",
+          "type": "nominal"
+        },
+        "x": {
+          "field": "Score",
+          "type": "quantitative",
+          "title": "Happiness Score"
+        },
+        "size": {
+          "value": 70
+        },
+        "tooltip": [
+          {
+            "field": "Country",
+            "type": "nominal"
+          },
+          {
+            "field": "Score",
+            "title": "Happiness Score",
+            "type": "quantitative",
+            "format": ".2f"
+          },
+          {
+            "field": "continent",
+            "type": "nominal",
+            "title": "Continent"
+          },
+          {
+            "field": "Year",
+            "type": "quantitative"
+          }
+        ]
+      }
+    },
+    {
+      "transform": [
+        {
+          "filter": "datum.Year == year"
+        },
+        {
+          "filter": "Continent == null || datum.continent == Continent"
+        },
+        {
+          "window": [
+            {
+              "op": "count",
+              "as": "count"
+            }
+          ]
+        },
+        {
+          "filter": "datum.count <= 10"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "middle",
+        "dx": 10,
+        "xOffset": 10
+      },
+      "encoding": {
+        "y": {
+          "field": "Country",
+          "type": "nominal",
+          "sort": "-x"
+        },
+        "x": {
+          "field": "Score",
+          "type": "quantitative"
+        },
+        "size": {
+          "value": 15
+        },
+        "text": {
+          "field": "Score",
+          "type": "quantitative",
+          "format": ".2f"
+        }
+      }
+    },
+    {
+      "transform": [
+        {
+          "filter": "datum.Year == year"
+        },
+        {
+          "filter": "Continent == null || datum.continent == Continent"
+        }
+      ],
+      "mark": "rule",
+      "encoding": {
+        "x": {
           "aggregate": "mean",
           "field": "Score",
           "type": "quantitative"
         },
-        "color": {"value": "red"},
-        "size": {"value": 3},
+        "color": {
+          "value": "red"
+        },
+        "size": {
+          "value": 3
+        },
         "tooltip": [
-              {"aggregate":"mean", "field": "Score", "format":".2f","type": "quantitative", "title":"Mean of Happiness Score"},
-              {"field": "Year", "type": "quantitative"}
-            ]
+          {
+            "aggregate": "mean",
+            "field": "Score",
+            "format": ".2f",
+            "type": "quantitative",
+            "title": "Mean of Happiness Score"
+          },
+          {
+            "field": "Year",
+            "type": "quantitative"
+          }
+        ]
+      }
     }
-  }
-  
-  
   ]
-  
 }
